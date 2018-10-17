@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SubCumu_v0.aux
+The style file: ieeetr.bst
+Database file #1: SubCumu_v0.bib
+Warning--empty journal in Aaboud:2016yar
+Warning--empty author in atlas:4
+Warning--empty year in atlas:4
+Warning--empty year in jjia
+Warning--empty author in Aad:2008zzm
+Warning--empty author in atlas:1
+Warning--empty year in atlas:1
+Warning--empty author in atlas:2
+Warning--empty year in atlas:2
+Warning--empty author in Aad:2012xs
+Warning--empty author in atlas:6
+Warning--empty year in atlas:6
+Warning--empty author in atlas:9
+Warning--empty journal in atlas:9
+Warning--empty year in atlas:9
+Warning--empty author in atlas:3
+Warning--empty year in atlas:3
+You've used 37 entries,
+            1876 wiz_defined-function locations,
+            683 strings with 9240 characters,
+and the built_in function-call counts, 8979 in all, are:
+= -- 931
+> -- 264
+< -- 0
++ -- 103
+- -- 66
+* -- 496
+:= -- 1149
+add.period$ -- 36
+call.type$ -- 37
+change.case$ -- 37
+chr.to.int$ -- 0
+cite$ -- 54
+duplicate$ -- 617
+empty$ -- 826
+format.name$ -- 66
+if$ -- 2335
+int.to.chr$ -- 0
+int.to.str$ -- 37
+missing$ -- 37
+newline$ -- 114
+num.names$ -- 29
+pop$ -- 130
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 490
+stack$ -- 0
+substring$ -- 346
+swap$ -- 319
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 17
+while$ -- 61
+width$ -- 39
+write$ -- 342
+(There were 17 warnings)

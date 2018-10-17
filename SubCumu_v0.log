@@ -1,0 +1,3929 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 OCT 2018 10:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SubCumu_v0
+(./SubCumu_v0.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./atlasnote.cls
+Document Class: atlasnote 2009/07/30 version 3.0 ATLAS Notes
+\AN@skipbeforetitle=\dimen102
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen114
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen115
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+\symAMSa=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Info: Redefining \not on input line 1043.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count103
+\output=\toks21
+\linenoprevgraf=\count104
+\linenumbersep=\dimen123
+\linenumberwidth=\dimen124
+\c@linenumber=\count105
+\c@pagewiselinenumber=\count106
+\c@LN@truepage=\count107
+\c@internallinenumber=\count108
+\c@internallinenumbers=\count109
+\quotelinenumbersep=\dimen125
+\bframerule=\dimen126
+\bframesep=\dimen127
+\bframebox=\box28
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\capindent=\skip46
+\capwidth=\skip47
+\figwidth=\skip48
+)
+(./atlasphysics.sty
+\hrs=\count110
+\minu=\count111
+\temptime=\count112
+\boxsqbox=\box29
+\boxsize=\dimen128
+\dkwidth=\dimen129
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count113
+\float@exts=\toks22
+\float@box=\box30
+\@float@everytoks=\toks23
+\@floatcapt=\box31
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/txsya/m/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/bx/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/txsyb/m/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/bx/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 74.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 75.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 76.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \lozenge on input line 142.
+)
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 52.
+
+LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56
+.
+LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61
+.
+LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 62.
+
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+
+LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 69.
+
+LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \leftarrowtail on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 74.
+LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
+79.
+LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \circeq on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \succsim on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \gtrsim on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \gtrapprox on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \multimap on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \therefore on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \because on input line 88.
+LaTeX Font Info:    Redeclaring math symbol \doteqdot on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \triangleq on input line 91.
+LaTeX Font Info:    Redeclaring math symbol \precsim on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \lesssim on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \lessapprox on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \eqslantless on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \eqslantgtr on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqprec on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqsucc on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \preccurlyeq on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \leqq on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \lessgtr on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \backprime on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \risingdotseq on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \fallingdotseq on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \succcurlyeq on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \geqq on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \between on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 11
+9.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+20.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 12
+1.
+LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 123.
+LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \eqcirc on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \lesseqgtr on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \gtreqless on input line 127.
+LaTeX Font Info:    Redeclaring math symbol \lesseqqgtr on input line 128.
+LaTeX Font Info:    Redeclaring math symbol \gtreqqless on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \Rrightarrow on input line 130.
+LaTeX Font Info:    Redeclaring math symbol \Lleftarrow on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \veebar on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \barwedge on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \doublebarwedge on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \measuredangle on input line 137.
+LaTeX Font Info:    Redeclaring math symbol \sphericalangle on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \varpropto on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \smallsmile on input line 140.
+LaTeX Font Info:    Redeclaring math symbol \smallfrown on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Subset on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \Supset on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Cup on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Cap on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 151.
+
+LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Bumpeq on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \lll on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \ggg on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \circledS on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \dotplus on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \backsim on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \backsimeq on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \circledcirc on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \circledast on input line 168.
+LaTeX Font Info:    Redeclaring math symbol \circleddash on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \lvertneqq on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \gvertneqq on input line 172.
+LaTeX Font Info:    Redeclaring math symbol \nleq on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \ngeq on input line 174.
+LaTeX Font Info:    Redeclaring math symbol \nless on input line 175.
+LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \nprec on input line 177.
+LaTeX Font Info:    Redeclaring math symbol \nsucc on input line 178.
+LaTeX Font Info:    Redeclaring math symbol \lneqq on input line 179.
+LaTeX Font Info:    Redeclaring math symbol \gneqq on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \lneq on input line 183.
+LaTeX Font Info:    Redeclaring math symbol \gneq on input line 184.
+LaTeX Font Info:    Redeclaring math symbol \npreceq on input line 185.
+LaTeX Font Info:    Redeclaring math symbol \nsucceq on input line 186.
+LaTeX Font Info:    Redeclaring math symbol \precnsim on input line 187.
+LaTeX Font Info:    Redeclaring math symbol \succnsim on input line 188.
+LaTeX Font Info:    Redeclaring math symbol \lnsim on input line 189.
+LaTeX Font Info:    Redeclaring math symbol \gnsim on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \nleqq on input line 191.
+LaTeX Font Info:    Redeclaring math symbol \ngeqq on input line 192.
+LaTeX Font Info:    Redeclaring math symbol \precneqq on input line 193.
+LaTeX Font Info:    Redeclaring math symbol \succneqq on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \precnapprox on input line 195.
+LaTeX Font Info:    Redeclaring math symbol \succnapprox on input line 196.
+LaTeX Font Info:    Redeclaring math symbol \lnapprox on input line 197.
+LaTeX Font Info:    Redeclaring math symbol \gnapprox on input line 198.
+LaTeX Font Info:    Redeclaring math symbol \nsim on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \ncong on input line 200.
+LaTeX Font Info:    Redeclaring math symbol \diagup on input line 201.
+LaTeX Font Info:    Redeclaring math symbol \diagdown on input line 202.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneq on input line 204.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteqq on input line 205.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteqq on input line 206.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \supsetneqq on input line 208.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneqq on input line 209.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneqq on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \subsetneq on input line 211.
+LaTeX Font Info:    Redeclaring math symbol \supsetneq on input line 212.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteq on input line 213.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteq on input line 214.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \nmid on input line 216.
+LaTeX Font Info:    Redeclaring math symbol \nshortmid on input line 217.
+LaTeX Font Info:    Redeclaring math symbol \nshortparallel on input line 218.
+LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 219.
+LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 220.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 222.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223
+.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 224.
+
+LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 225.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 226.
+LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 227.
+LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 228.
+LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 229.
+LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 230.
+LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 231.
+
+LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 232.
+
+LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 233.
+LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 234.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \Finv on input line 236.
+LaTeX Font Info:    Redeclaring math symbol \Game on input line 237.
+LaTeX Font Info:    Redeclaring math symbol \eth on input line 240.
+LaTeX Font Info:    Redeclaring math symbol \eqsim on input line 241.
+LaTeX Font Info:    Redeclaring math symbol \beth on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \gimel on input line 243.
+LaTeX Font Info:    Redeclaring math symbol \daleth on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \lessdot on input line 245.
+LaTeX Font Info:    Redeclaring math symbol \gtrdot on input line 246.
+LaTeX Font Info:    Redeclaring math symbol \ltimes on input line 247.
+LaTeX Font Info:    Redeclaring math symbol \rtimes on input line 248.
+LaTeX Font Info:    Redeclaring math symbol \shortmid on input line 249.
+LaTeX Font Info:    Redeclaring math symbol \shortparallel on input line 250.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \thicksim on input line 252.
+LaTeX Font Info:    Redeclaring math symbol \thickapprox on input line 253.
+LaTeX Font Info:    Redeclaring math symbol \approxeq on input line 254.
+LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 255.
+LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+
+LaTeX Font Info:    Redeclaring math symbol \digamma on input line 259.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
+LaTeX Font Info:    Redeclaring math symbol \Bbbk on input line 261.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
+LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package morefloats Info: Maximum number of possible floats asked for: 36.
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+(morefloats)              on input line 171.
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@AB=\insert224
+\bx@AC=\insert223
+\bx@AD=\insert222
+\bx@AE=\insert221
+\bx@AF=\insert220
+\bx@AG=\insert219
+\bx@AH=\insert218
+\bx@AI=\insert217
+\bx@AJ=\insert216
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/harpoon/harpoon.sty
+Package: harpoon 1994/11/02 Harpoon drawing package by Tobias Kuipers
+\argwd=\skip49
+\arght=\skip50
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen130
+\captionmargin@=\dimen131
+\captionwidth=\dimen132
+\caption@tempdima=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
+)
+\c@ContinuedFloat=\count114
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count115
+\c@subtable=\count116
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \yen on input line 84.
+LaTeX Info: Redefining \circledR on input line 84.
+LaTeX Info: Redefining \circledS on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+LaTeX Info: Redefining \dotplus on input line 84.
+LaTeX Info: Redefining \thicksim on input line 84.
+LaTeX Info: Redefining \thickapprox on input line 84.
+LaTeX Info: Redefining \veebar on input line 84.
+LaTeX Info: Redefining \barwedge on input line 84.
+LaTeX Info: Redefining \doublebarwedge on input line 84.
+LaTeX Info: Redefining \centerdot on input line 84.
+LaTeX Info: Redefining \divideontimes on input line 84.
+\symMnSyA=\mathgroup10
+\symMnSyB=\mathgroup11
+\symMnSyC=\mathgroup12
+\symMnSyD=\mathgroup13
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/txex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/bx/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/txsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/bx/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Info: Redefining \coloneq on input line 1445.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen137
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen138
+\enit@toks=\toks24
+\enit@inbox=\box32
+\enitdp@description=\count117
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen139
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count121
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen140
+\Fld@menulength=\count122
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count123
+\c@Item=\count124
+\c@Hfootnote=\count125
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count126
+\c@bookmark@seq@number=\count127
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip52
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count128
+\U@D=\dimen143
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip53
+\@affilsep=\skip54
+\c@Maxaffil=\count129
+\c@authors=\count130
+\c@affil=\count131
+)
+(./SubCumu_v0.aux
+
+LaTeX Warning: Label `fig:stat_pp13_run2' multiply defined.
+
+
+LaTeX Warning: Label `fig:stat_pp13_run4' multiply defined.
+
+
+LaTeX Warning: Label `fig:stat_pp13_run4' multiply defined.
+
+)
+\openout1 = `SubCumu_v0.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 44.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 44.
+
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 44.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 44.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 44.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 44.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 44.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 44.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 44.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 44.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.1319pt, 455.24408pt, 71.1319pt)
+* v-part:(T,H,B)=(73.9772pt, 660.10384pt, 110.9658pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24408pt
+* \textheight=660.10384pt
+* \oddsidemargin=-1.13809pt
+* \evensidemargin=-1.13809pt
+* \topmargin=-35.29279pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=71.13188pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen144
+\scratchbox=\box33
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen145
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<AN_atlaslogo.pdf, id=1, 259.97125pt x 259.97125pt>
+File: AN_atlaslogo.pdf Graphic file (type pdf)
+ <use AN_atlaslogo.pdf>
+Package pdftex.def Info: AN_atlaslogo.pdf used on input line 44.
+(pdftex.def)             Requested size: 85.35826pt x 85.35838pt.
+LaTeX Font Info:    Try loading font information for OT1+txss on input line 44.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/ot1txss.fd
+File: ot1txss.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 19.70294pt on input line 44.
+
+<AN_cernlogo.pdf, id=2, 85.31876pt x 83.31125pt>
+File: AN_cernlogo.pdf Graphic file (type pdf)
+ <use AN_cernlogo.pdf>
+Package pdftex.def Info: AN_cernlogo.pdf used on input line 44.
+(pdftex.def)             Requested size: 85.35826pt x 83.35551pt.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 44.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 44.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 44.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+) [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./AN_at
+laslogo.pdf> <./AN_cernlogo.pdf>]
+\timehh=\count138
+\timemm=\count139
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box34
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+Package hyperref Info: Link coloring ON on input line 44.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count140
+)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
+
+(./SubCumu_v0.out) (./SubCumu_v0.out)
+\@outlinefile=\write3
+\openout3 = `SubCumu_v0.out'.
+
+ (./SubCumu_v0.toc [1])
+\tf@toc=\write4
+\openout4 = `SubCumu_v0.toc'.
+
+ [2]
+LaTeX Font Info:    Try loading font information for TS1+txr on input line 50.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for OT1+txtt on input line 50.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/ot1txtt.fd
+File: ot1txtt.fd 2000/12/15 v3.1
+) [3
+
+]
+(./sec_intro.tex) [4
+
+] (./sec_mtd.tex
+<figs/sec_mtd/subevt_demo.png, id=501, 1260.71pt x 665.48625pt>
+File: figs/sec_mtd/subevt_demo.png Graphic file (type png)
+
+<use figs/sec_mtd/subevt_demo.png>
+Package pdftex.def Info: figs/sec_mtd/subevt_demo.png used on input line 6.
+(pdftex.def)             Requested size: 318.66946pt x 168.2091pt.
+ [5
+
+ <./figs/sec_mtd/subevt_demo.png>]
+[6]) [7] (./sec_evtSlc.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+[8
+
+] <figs/sec_evtSlc/trkDis_pp13_run1.pdf, id=549, 569.12625pt x 265.99374pt>
+File: figs/sec_evtSlc/trkDis_pp13_run1.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkDis_pp13_run1.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkDis_pp13_run1.pdf used on input lin
+e 92.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+ [9]
+<figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig11.pdf, id=557, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig11.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig11.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig11.pdf u
+sed on input line 101.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig12.pdf, id=558, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig12.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig12.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig12.pdf u
+sed on input line 105.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig13.pdf, id=559, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig13.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig13.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig13.pdf u
+sed on input line 109.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig15.pdf, id=560, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig15.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig15.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig15.pdf u
+sed on input line 113.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [10 <./figs/sec_evtSlc/trkDis_pp13_run1.pdf, page is rotated 90 degrees> <./fi
+gs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig11.pdf, page is rotated 90 degrees>
+ <./figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig12.pdf, page is rotated 90 de
+grees>]
+[11 <./figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig13.pdf, page is rotated 90
+ degrees> <./figs/sec_evtSlc/trigEff_pp13_run1/trigEff_Trig15.pdf, page is rota
+ted 90 degrees>]
+<figs/sec_evtSlc/trkDis_pp13_run2.pdf, id=792, 569.12625pt x 265.99374pt>
+File: figs/sec_evtSlc/trkDis_pp13_run2.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkDis_pp13_run2.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkDis_pp13_run2.pdf used on input lin
+e 156.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig17.pdf, id=794, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig17.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig17.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig17.pdf u
+sed on input line 164.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig18.pdf, id=795, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig18.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig18.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig18.pdf u
+sed on input line 168.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig19.pdf, id=796, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig19.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig19.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig19.pdf u
+sed on input line 172.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [12 <./figs/sec_evtSlc/trkDis_pp13_run2.pdf, page is rotated 90 degrees> <./fi
+gs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig17.pdf, page is rotated 90 degrees>
+]
+<figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig22.pdf, id=890, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig22.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig22.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig22.pdf u
+sed on input line 176.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig24.pdf, id=891, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig24.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig24.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig24.pdf u
+sed on input line 180.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [13 <./figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig18.pdf, page is rotated 9
+0 degrees> <./figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig19.pdf, page is rot
+ated 90 degrees> <./figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig22.pdf, page 
+is rotated 90 degrees> <./figs/sec_evtSlc/trigEff_pp13_run2/trigEff_Trig24.pdf,
+ page is rotated 90 degrees>]
+<figs/sec_evtSlc/trkDis_pp13_run3.pdf, id=1074, 569.12625pt x 265.99374pt>
+File: figs/sec_evtSlc/trkDis_pp13_run3.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkDis_pp13_run3.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkDis_pp13_run3.pdf used on input lin
+e 210.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig2.pdf, id=1076, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig2.pdf Graphic file (type pd
+f)
+ <use figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig2.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig2.pdf us
+ed on input line 218.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig6.pdf, id=1077, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig6.pdf Graphic file (type pd
+f)
+ <use figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig6.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig6.pdf us
+ed on input line 222.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig7.pdf, id=1078, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig7.pdf Graphic file (type pd
+f)
+ <use figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig7.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig7.pdf us
+ed on input line 226.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [14 <./figs/sec_evtSlc/trkDis_pp13_run3.pdf, page is rotated 90 degrees> <./fi
+gs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig2.pdf, page is rotated 90 degrees>]
+
+<figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig9.pdf, id=1172, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig9.pdf Graphic file (type pd
+f)
+ <use figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig9.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig9.pdf us
+ed on input line 230.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig11.pdf, id=1173, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig11.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig11.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig11.pdf u
+sed on input line 234.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [15 <./figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig6.pdf, page is rotated 90
+ degrees> <./figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig7.pdf, page is rotat
+ed 90 degrees> <./figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig9.pdf, page is 
+rotated 90 degrees> <./figs/sec_evtSlc/trigEff_pp13_run3/trigEff_Trig11.pdf, pa
+ge is rotated 90 degrees>]
+<figs/sec_evtSlc/trkDis_pp13_run4.pdf, id=1355, 569.12625pt x 265.99374pt>
+File: figs/sec_evtSlc/trkDis_pp13_run4.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkDis_pp13_run4.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkDis_pp13_run4.pdf used on input lin
+e 276.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig18.pdf, id=1357, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig18.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig18.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig18.pdf u
+sed on input line 284.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig24.pdf, id=1358, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig24.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig24.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig24.pdf u
+sed on input line 288.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig30.pdf, id=1359, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig30.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig30.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig30.pdf u
+sed on input line 292.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [16 <./figs/sec_evtSlc/trkDis_pp13_run4.pdf, page is rotated 90 degrees> <./fi
+gs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig18.pdf, page is rotated 90 degrees>
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 300.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 300.
+
+[17 <./figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig24.pdf, page is rotated 90
+ degrees> <./figs/sec_evtSlc/trigEff_pp13_run4/trigEff_Trig30.pdf, page is rota
+ted 90 degrees>] [18]
+<figs/sec_evtSlc/trkEff_pp13_eff_2D_wZvtx.pdf, id=1557, 569.12625pt x 558.085pt
+>
+File: figs/sec_evtSlc/trkEff_pp13_eff_2D_wZvtx.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_eff_2D_wZvtx.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_eff_2D_wZvtx.pdf used on i
+nput line 382.
+(pdftex.def)             Requested size: 455.24408pt x 446.43456pt.
+ [19 <./figs/sec_evtSlc/trkEff_pp13_eff_2D_wZvtx.pdf, page is rotated 90 degree
+s>]
+<figs/sec_evtSlc/trkEff_pp13_fak_2D_wZvtx.pdf, id=1609, 569.12625pt x 558.085pt
+>
+File: figs/sec_evtSlc/trkEff_pp13_fak_2D_wZvtx.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_fak_2D_wZvtx.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_fak_2D_wZvtx.pdf used on i
+nput line 391.
+(pdftex.def)             Requested size: 455.24408pt x 446.43456pt.
+ [20 <./figs/sec_evtSlc/trkEff_pp13_fak_2D_wZvtx.pdf, page is rotated 90 degree
+s>]
+<figs/sec_evtSlc/trkEff_pp13_eff_2D.pdf, id=1659, 569.12625pt x 546.04pt>
+File: figs/sec_evtSlc/trkEff_pp13_eff_2D.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkEff_pp13_eff_2D.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_eff_2D.pdf used on input l
+ine 400.
+(pdftex.def)             Requested size: 455.24408pt x 436.79927pt.
+
+<figs/sec_evtSlc/trkEff_pp13_fak_2D.pdf, id=1661, 569.12625pt x 546.04pt>
+File: figs/sec_evtSlc/trkEff_pp13_fak_2D.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkEff_pp13_fak_2D.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_fak_2D.pdf used on input l
+ine 409.
+(pdftex.def)             Requested size: 455.24408pt x 436.79927pt.
+ [21 <./figs/sec_evtSlc/trkEff_pp13_eff_2D.pdf, page is rotated 90 degrees>] [2
+2 <./figs/sec_evtSlc/trkEff_pp13_fak_2D.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/GRLpp2016/305359_dis_nTrk.pdf, id=1760, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_evtSlc/GRLpp2016/305359_dis_nTrk.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/305359_dis_nTrk.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/305359_dis_nTrk.pdf used on 
+input line 435.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/305359_dis_pt.pdf, id=1761, 569.12625pt x 534.99875p
+t>
+File: figs/sec_evtSlc/GRLpp2016/305359_dis_pt.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/305359_dis_pt.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/305359_dis_pt.pdf used on in
+put line 436.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/305359_dis_z0.pdf, id=1763, 569.12625pt x 534.99875p
+t>
+File: figs/sec_evtSlc/GRLpp2016/305359_dis_z0.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/305359_dis_z0.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/305359_dis_z0.pdf used on in
+put line 444.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/305359_dis_d0.pdf, id=1764, 569.12625pt x 534.99875p
+t>
+File: figs/sec_evtSlc/GRLpp2016/305359_dis_d0.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/305359_dis_d0.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/305359_dis_d0.pdf used on in
+put line 445.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+ [23 <./figs/sec_evtSlc/GRLpp2016/305359_dis_nTrk.pdf, page is rotated 90 degre
+es> <./figs/sec_evtSlc/GRLpp2016/305359_dis_pt.pdf, page is rotated 90 degrees>
+]
+<figs/sec_evtSlc/GRLpp2016/305359_dis_pixHit.pdf, id=1858, 569.12625pt x 534.99
+875pt>
+File: figs/sec_evtSlc/GRLpp2016/305359_dis_pixHit.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/305359_dis_pixHit.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/305359_dis_pixHit.pdf used o
+n input line 453.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/305359_dis_sctHit.pdf, id=1859, 569.12625pt x 534.99
+875pt>
+File: figs/sec_evtSlc/GRLpp2016/305359_dis_sctHit.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/305359_dis_sctHit.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/305359_dis_sctHit.pdf used o
+n input line 454.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/305359_crr_eta_phi.pdf, id=1861, 569.12625pt x 265.9
+9374pt>
+File: figs/sec_evtSlc/GRLpp2016/305359_crr_eta_phi.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/305359_crr_eta_phi.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/305359_crr_eta_phi.pdf used 
+on input line 462.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+ [24 <./figs/sec_evtSlc/GRLpp2016/305359_dis_z0.pdf, page is rotated 90 degrees
+> <./figs/sec_evtSlc/GRLpp2016/305359_dis_d0.pdf, page is rotated 90 degrees> <
+./figs/sec_evtSlc/GRLpp2016/305359_dis_pixHit.pdf, page is rotated 90 degrees> 
+<./figs/sec_evtSlc/GRLpp2016/305359_dis_sctHit.pdf, page is rotated 90 degrees>
+]
+<figs/sec_evtSlc/GRLpp2016/309314_dis_nTrk.pdf, id=2042, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_evtSlc/GRLpp2016/309314_dis_nTrk.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/309314_dis_nTrk.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/309314_dis_nTrk.pdf used on 
+input line 472.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/309314_dis_pt.pdf, id=2043, 569.12625pt x 534.99875p
+t>
+File: figs/sec_evtSlc/GRLpp2016/309314_dis_pt.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/309314_dis_pt.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/309314_dis_pt.pdf used on in
+put line 473.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/309314_dis_z0.pdf, id=2045, 569.12625pt x 534.99875p
+t>
+File: figs/sec_evtSlc/GRLpp2016/309314_dis_z0.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/309314_dis_z0.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/309314_dis_z0.pdf used on in
+put line 481.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/309314_dis_d0.pdf, id=2046, 569.12625pt x 534.99875p
+t>
+File: figs/sec_evtSlc/GRLpp2016/309314_dis_d0.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/309314_dis_d0.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/309314_dis_d0.pdf used on in
+put line 482.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+ [25 <./figs/sec_evtSlc/GRLpp2016/305359_crr_eta_phi.pdf, page is rotated 90 de
+grees> <./figs/sec_evtSlc/GRLpp2016/309314_dis_nTrk.pdf, page is rotated 90 deg
+rees> <./figs/sec_evtSlc/GRLpp2016/309314_dis_pt.pdf, page is rotated 90 degree
+s>]
+<figs/sec_evtSlc/GRLpp2016/309314_dis_pixHit.pdf, id=2184, 569.12625pt x 534.99
+875pt>
+File: figs/sec_evtSlc/GRLpp2016/309314_dis_pixHit.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/309314_dis_pixHit.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/309314_dis_pixHit.pdf used o
+n input line 490.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/309314_dis_sctHit.pdf, id=2185, 569.12625pt x 534.99
+875pt>
+File: figs/sec_evtSlc/GRLpp2016/309314_dis_sctHit.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/309314_dis_sctHit.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/309314_dis_sctHit.pdf used o
+n input line 491.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_evtSlc/GRLpp2016/309314_crr_eta_phi.pdf, id=2187, 569.12625pt x 265.9
+9374pt>
+File: figs/sec_evtSlc/GRLpp2016/309314_crr_eta_phi.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/GRLpp2016/309314_crr_eta_phi.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/GRLpp2016/309314_crr_eta_phi.pdf used 
+on input line 499.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+ [26 <./figs/sec_evtSlc/GRLpp2016/309314_dis_z0.pdf, page is rotated 90 degrees
+> <./figs/sec_evtSlc/GRLpp2016/309314_dis_d0.pdf, page is rotated 90 degrees> <
+./figs/sec_evtSlc/GRLpp2016/309314_dis_pixHit.pdf, page is rotated 90 degrees> 
+<./figs/sec_evtSlc/GRLpp2016/309314_dis_sctHit.pdf, page is rotated 90 degrees>
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 510.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 510.
+
+[27 <./figs/sec_evtSlc/GRLpp2016/309314_crr_eta_phi.pdf, page is rotated 90 deg
+rees>] <figs/sec_evtSlc/trkDis_pp5.pdf, id=2416, 569.12625pt x 265.99374pt>
+File: figs/sec_evtSlc/trkDis_pp5.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkDis_pp5.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkDis_pp5.pdf used on input line 567.
+
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+
+<figs/sec_evtSlc/trigEff_pp5/trigEff_Trig18.pdf, id=2418, 569.12625pt x 129.483
+75pt>
+File: figs/sec_evtSlc/trigEff_pp5/trigEff_Trig18.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trigEff_pp5/trigEff_Trig18.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp5/trigEff_Trig18.pdf used on
+ input line 575.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp5/trigEff_Trig19.pdf, id=2419, 569.12625pt x 129.483
+75pt>
+File: figs/sec_evtSlc/trigEff_pp5/trigEff_Trig19.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trigEff_pp5/trigEff_Trig19.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp5/trigEff_Trig19.pdf used on
+ input line 579.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pp5/trigEff_Trig20.pdf, id=2420, 569.12625pt x 129.483
+75pt>
+File: figs/sec_evtSlc/trigEff_pp5/trigEff_Trig20.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trigEff_pp5/trigEff_Trig20.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp5/trigEff_Trig20.pdf used on
+ input line 583.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [28 <./figs/sec_evtSlc/trkDis_pp5.pdf, page is rotated 90 degrees> <./figs/sec
+_evtSlc/trigEff_pp5/trigEff_Trig18.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/trigEff_pp5/trigEff_Trig21.pdf, id=2514, 569.12625pt x 129.483
+75pt>
+File: figs/sec_evtSlc/trigEff_pp5/trigEff_Trig21.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trigEff_pp5/trigEff_Trig21.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pp5/trigEff_Trig21.pdf used on
+ input line 587.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 593.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 593.
+
+<figs/sec_evtSlc/ID_alignment_pp5.png, id=2516, 1286.8075pt x 654.445pt>
+File: figs/sec_evtSlc/ID_alignment_pp5.png Graphic file (type png)
+
+<use figs/sec_evtSlc/ID_alignment_pp5.png>
+Package pdftex.def Info: figs/sec_evtSlc/ID_alignment_pp5.png used on input lin
+e 601.
+(pdftex.def)             Requested size: 455.24408pt x 231.52573pt.
+ [29 <./figs/sec_evtSlc/trigEff_pp5/trigEff_Trig19.pdf, page is rotated 90 degr
+ees> <./figs/sec_evtSlc/trigEff_pp5/trigEff_Trig20.pdf, page is rotated 90 degr
+ees> <./figs/sec_evtSlc/trigEff_pp5/trigEff_Trig21.pdf, page is rotated 90 degr
+ees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 607.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 607.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 610.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 610.
+
+[30 <./figs/sec_evtSlc/ID_alignment_pp5.png>] [31] [32]
+<figs/sec_evtSlc/trkDis_pPb5_run1.pdf, id=2676, 569.12625pt x 265.99374pt>
+File: figs/sec_evtSlc/trkDis_pPb5_run1.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkDis_pPb5_run1.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkDis_pPb5_run1.pdf used on input lin
+e 805.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+
+<figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig8.pdf, id=2678, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig8.pdf Graphic file (type pd
+f)
+ <use figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig8.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig8.pdf us
+ed on input line 813.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig9.pdf, id=2679, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig9.pdf Graphic file (type pd
+f)
+ <use figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig9.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig9.pdf us
+ed on input line 817.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [33 <./figs/sec_evtSlc/trkDis_pPb5_run1.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig10.pdf, id=2730, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig10.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig10.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig10.pdf u
+sed on input line 821.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig11.pdf, id=2731, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig11.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig11.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig11.pdf u
+sed on input line 825.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig12.pdf, id=2732, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig12.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig12.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig12.pdf u
+sed on input line 829.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig13.pdf, id=2733, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig13.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig13.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig13.pdf u
+sed on input line 833.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [34 <./figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig8.pdf, page is rotated 90
+ degrees> <./figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig9.pdf, page is rotat
+ed 90 degrees> <./figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig10.pdf, page is
+ rotated 90 degrees> <./figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig11.pdf, p
+age is rotated 90 degrees> <./figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig12.
+pdf, page is rotated 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 841.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 841.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 846.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 846.
+
+[35 <./figs/sec_evtSlc/trigEff_pPb5_run1/trigEff_Trig13.pdf, page is rotated 90
+ degrees>]
+<figs/sec_evtSlc/trkDis_pPb5_run2.pdf, id=3010, 569.12625pt x 265.99374pt>
+File: figs/sec_evtSlc/trkDis_pPb5_run2.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/trkDis_pPb5_run2.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkDis_pPb5_run2.pdf used on input lin
+e 914.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+ [36]
+<figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig6.pdf, id=3017, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig6.pdf Graphic file (type pd
+f)
+ <use figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig6.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig6.pdf us
+ed on input line 922.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig8.pdf, id=3018, 569.12625pt x 12
+9.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig8.pdf Graphic file (type pd
+f)
+ <use figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig8.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig8.pdf us
+ed on input line 926.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig10.pdf, id=3019, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig10.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig10.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig10.pdf u
+sed on input line 930.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+
+<figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig11.pdf, id=3020, 569.12625pt x 1
+29.48375pt>
+File: figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig11.pdf Graphic file (type p
+df)
+ <use figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig11.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig11.pdf u
+sed on input line 934.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [37 <./figs/sec_evtSlc/trkDis_pPb5_run2.pdf, page is rotated 90 degrees> <./fi
+gs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig6.pdf, page is rotated 90 degrees> 
+<./figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig8.pdf, page is rotated 90 degr
+ees> <./figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig10.pdf, page is rotated 9
+0 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 942.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 942.
+
+<figs/sec_evtSlc/MC_pPb5_ev1_Nch0.pdf, id=3206, 569.12625pt x 172.645pt>
+File: figs/sec_evtSlc/MC_pPb5_ev1_Nch0.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/MC_pPb5_ev1_Nch0.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/MC_pPb5_ev1_Nch0.pdf used on input lin
+e 947.
+(pdftex.def)             Requested size: 409.71689pt x 124.29375pt.
+
+<figs/sec_evtSlc/MC_pPb5_ev1_Nch1.pdf, id=3207, 569.12625pt x 172.645pt>
+File: figs/sec_evtSlc/MC_pPb5_ev1_Nch1.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/MC_pPb5_ev1_Nch1.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/MC_pPb5_ev1_Nch1.pdf used on input lin
+e 948.
+(pdftex.def)             Requested size: 409.71689pt x 124.29375pt.
+ [38 <./figs/sec_evtSlc/trigEff_pPb5_run2/trigEff_Trig11.pdf, page is rotated 9
+0 degrees> <./figs/sec_evtSlc/MC_pPb5_ev1_Nch0.pdf, page is rotated 90 degrees>
+ <./figs/sec_evtSlc/MC_pPb5_ev1_Nch1.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/MC_pPb5_ev2_raw.pdf, id=3345, 569.12625pt x 172.645pt>
+File: figs/sec_evtSlc/MC_pPb5_ev2_raw.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/MC_pPb5_ev2_raw.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/MC_pPb5_ev2_raw.pdf used on input line
+ 956.
+(pdftex.def)             Requested size: 409.71689pt x 124.29375pt.
+
+<figs/sec_evtSlc/MC_pPb5_ev2_crr.pdf, id=3346, 569.12625pt x 172.645pt>
+File: figs/sec_evtSlc/MC_pPb5_ev2_crr.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/MC_pPb5_ev2_crr.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/MC_pPb5_ev2_crr.pdf used on input line
+ 957.
+(pdftex.def)             Requested size: 409.71689pt x 124.29375pt.
+
+<figs/sec_evtSlc/MC_pPb5_ev3_mtd0.png, id=3348, 569.0058pt x 534.798pt>
+File: figs/sec_evtSlc/MC_pPb5_ev3_mtd0.png Graphic file (type png)
+
+<use figs/sec_evtSlc/MC_pPb5_ev3_mtd0.png>
+Package pdftex.def Info: figs/sec_evtSlc/MC_pPb5_ev3_mtd0.png used on input lin
+e 965.
+(pdftex.def)             Requested size: 204.85844pt x 192.54344pt.
+
+<figs/sec_evtSlc/MC_pPb5_ev3_mtd1.png, id=3349, 569.0058pt x 534.798pt>
+File: figs/sec_evtSlc/MC_pPb5_ev3_mtd1.png Graphic file (type png)
+
+<use figs/sec_evtSlc/MC_pPb5_ev3_mtd1.png>
+Package pdftex.def Info: figs/sec_evtSlc/MC_pPb5_ev3_mtd1.png used on input lin
+e 966.
+(pdftex.def)             Requested size: 204.85844pt x 192.54344pt.
+ [39 <./figs/sec_evtSlc/MC_pPb5_ev2_raw.pdf, page is rotated 90 degrees> <./fig
+s/sec_evtSlc/MC_pPb5_ev2_crr.pdf, page is rotated 90 degrees>]) [40 <./figs/sec
+_evtSlc/MC_pPb5_ev3_mtd0.png> <./figs/sec_evtSlc/MC_pPb5_ev3_mtd1.png>] (./sec_
+ana.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 27.
+
+[41
+
+] <figs/sec_ana/flatten_pp13_2D_wPt.pdf, id=3456, 569.12625pt x 558.085pt>
+File: figs/sec_ana/flatten_pp13_2D_wPt.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/flatten_pp13_2D_wPt.pdf>
+Package pdftex.def Info: figs/sec_ana/flatten_pp13_2D_wPt.pdf used on input lin
+e 43.
+(pdftex.def)             Requested size: 455.24408pt x 446.43456pt.
+ [42]
+<figs/sec_ana/flatten_pp13_2D_run_before.pdf, id=3464, 569.12625pt x 554.07pt>
+File: figs/sec_ana/flatten_pp13_2D_run_before.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/flatten_pp13_2D_run_before.pdf>
+Package pdftex.def Info: figs/sec_ana/flatten_pp13_2D_run_before.pdf used on in
+put line 51.
+(pdftex.def)             Requested size: 455.24408pt x 443.22278pt.
+ [43 <./figs/sec_ana/flatten_pp13_2D_wPt.pdf, page is rotated 90 degrees>]
+<figs/sec_ana/flatten_pp13_2D_run_wei.pdf, id=3513, 569.12625pt x 554.07pt>
+File: figs/sec_ana/flatten_pp13_2D_run_wei.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/flatten_pp13_2D_run_wei.pdf>
+Package pdftex.def Info: figs/sec_ana/flatten_pp13_2D_run_wei.pdf used on input
+ line 58.
+(pdftex.def)             Requested size: 455.24408pt x 443.22278pt.
+ [44 <./figs/sec_ana/flatten_pp13_2D_run_before.pdf, page is rotated 90 degrees
+>] [45 <./figs/sec_ana/flatten_pp13_2D_run_wei.pdf, page is rotated 90 degrees>
+]
+<figs/sec_ana/flatten_pp13_2D_run_after.pdf, id=3615, 569.12625pt x 554.07pt>
+File: figs/sec_ana/flatten_pp13_2D_run_after.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/flatten_pp13_2D_run_after.pdf>
+Package pdftex.def Info: figs/sec_ana/flatten_pp13_2D_run_after.pdf used on inp
+ut line 73.
+(pdftex.def)             Requested size: 455.24408pt x 443.22278pt.
+ [46 <./figs/sec_ana/flatten_pp13_2D_run_after.pdf, page is rotated 90 degrees>
+]
+<figs/sec_ana/mon_pp13_2015_trkCrr.pdf, id=3655, 569.12625pt x 363.3575pt>
+File: figs/sec_ana/mon_pp13_2015_trkCrr.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/mon_pp13_2015_trkCrr.pdf>
+Package pdftex.def Info: figs/sec_ana/mon_pp13_2015_trkCrr.pdf used on input li
+ne 118.
+(pdftex.def)             Requested size: 455.24408pt x 290.6642pt.
+
+<figs/sec_ana/mon_pp13_2016_trkCrr.pdf, id=3656, 569.12625pt x 363.3575pt>
+File: figs/sec_ana/mon_pp13_2016_trkCrr.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/mon_pp13_2016_trkCrr.pdf>
+Package pdftex.def Info: figs/sec_ana/mon_pp13_2016_trkCrr.pdf used on input li
+ne 124.
+(pdftex.def)             Requested size: 455.24408pt x 290.6642pt.
+ [47]
+<figs/sec_ana/mon_pp5_2015_trkCrr.pdf, id=3663, 569.12625pt x 363.3575pt>
+File: figs/sec_ana/mon_pp5_2015_trkCrr.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/mon_pp5_2015_trkCrr.pdf>
+Package pdftex.def Info: figs/sec_ana/mon_pp5_2015_trkCrr.pdf used on input lin
+e 130.
+(pdftex.def)             Requested size: 455.24408pt x 290.6642pt.
+ [48 <./figs/sec_ana/mon_pp13_2015_trkCrr.pdf, page is rotated 90 degrees>] [49
+ <./figs/sec_ana/mon_pp13_2016_trkCrr.pdf, page is rotated 90 degrees>] [50 <./
+figs/sec_ana/mon_pp5_2015_trkCrr.pdf, page is rotated 90 degrees>]
+<figs/sec_ana/mon_pp13_2015_trkXaxis.pdf, id=3811, 569.12625pt x 172.645pt>
+File: figs/sec_ana/mon_pp13_2015_trkXaxis.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/mon_pp13_2015_trkXaxis.pdf>
+Package pdftex.def Info: figs/sec_ana/mon_pp13_2015_trkXaxis.pdf used on input 
+line 142.
+(pdftex.def)             Requested size: 455.24408pt x 138.10564pt.
+
+<figs/sec_ana/mon_pp13_2016_trkXaxis.pdf, id=3812, 569.12625pt x 172.645pt>
+File: figs/sec_ana/mon_pp13_2016_trkXaxis.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/mon_pp13_2016_trkXaxis.pdf>
+Package pdftex.def Info: figs/sec_ana/mon_pp13_2016_trkXaxis.pdf used on input 
+line 148.
+(pdftex.def)             Requested size: 455.24408pt x 138.10564pt.
+
+<figs/sec_ana/mon_pp5_2015_trkXaxis.pdf, id=3813, 569.12625pt x 172.645pt>
+File: figs/sec_ana/mon_pp5_2015_trkXaxis.pdf Graphic file (type pdf)
+
+<use figs/sec_ana/mon_pp5_2015_trkXaxis.pdf>
+Package pdftex.def Info: figs/sec_ana/mon_pp5_2015_trkXaxis.pdf used on input l
+ine 154.
+(pdftex.def)             Requested size: 455.24408pt x 138.10564pt.
+ [51 <./figs/sec_ana/mon_pp13_2015_trkXaxis.pdf, page is rotated 90 degrees> <.
+/figs/sec_ana/mon_pp13_2016_trkXaxis.pdf, page is rotated 90 degrees>] [52 <./f
+igs/sec_ana/mon_pp5_2015_trkXaxis.pdf, page is rotated 90 degrees>]
+<figs/sec_ana/valid_PYTHIA_truth_c24.png, id=3959, 1844.39063pt x 579.66562pt>
+File: figs/sec_ana/valid_PYTHIA_truth_c24.png Graphic file (type png)
+
+<use figs/sec_ana/valid_PYTHIA_truth_c24.png>
+Package pdftex.def Info: figs/sec_ana/valid_PYTHIA_truth_c24.png used on input 
+line 202.
+(pdftex.def)             Requested size: 409.71689pt x 128.76512pt.
+
+<figs/sec_ana/valid_PYTHIA_truth_c24_wFlow.png, id=3961, 1210.5225pt x 781.4193
+7pt>
+File: figs/sec_ana/valid_PYTHIA_truth_c24_wFlow.png Graphic file (type png)
+ <use figs/sec_ana/valid_PYTHIA_truth_c24_wFlow.png>
+Package pdftex.def Info: figs/sec_ana/valid_PYTHIA_truth_c24_wFlow.png used on 
+input line 211.
+(pdftex.def)             Requested size: 204.85844pt x 132.23143pt.
+ [53 <./figs/sec_ana/valid_PYTHIA_truth_c24.png>]) [54 <./figs/sec_ana/valid_PY
+THIA_truth_c24_wFlow.png>] (./sec_sys.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+<figs/sec_sys/pp13/sys_pp13_trigEff_eg.pdf, id=3976, 569.12625pt x 129.48375pt>
+File: figs/sec_sys/pp13/sys_pp13_trigEff_eg.pdf Graphic file (type pdf)
+<use figs/sec_sys/pp13/sys_pp13_trigEff_eg.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_trigEff_eg.pdf used on inpu
+t line 26.
+(pdftex.def)             Requested size: 455.24408pt x 103.57921pt.
+ [55
+
+]
+<figs/sec_sys/pp13/sys_pp13_trigEff_table_1.png, id=3984, 1392.20125pt x 497.86
+pt>
+File: figs/sec_sys/pp13/sys_pp13_trigEff_table_1.png Graphic file (type png)
+ <use figs/sec_sys/pp13/sys_pp13_trigEff_table_1.png>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_trigEff_table_1.png used on
+ input line 33.
+(pdftex.def)             Requested size: 455.24408pt x 162.79774pt.
+
+<figs/sec_sys/pp13/sys_pp13_trigEff_table_2.png, id=3985, 1392.20125pt x 414.54
+875pt>
+File: figs/sec_sys/pp13/sys_pp13_trigEff_table_2.png Graphic file (type png)
+ <use figs/sec_sys/pp13/sys_pp13_trigEff_table_2.png>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_trigEff_table_2.png used on
+ input line 34.
+(pdftex.def)             Requested size: 455.24408pt x 135.55537pt.
+
+<figs/sec_sys/pp13/sys_pp13_trigEff.pdf, id=3986, 569.12625pt x 408.52625pt>
+File: figs/sec_sys/pp13/sys_pp13_trigEff.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pp13/sys_pp13_trigEff.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_trigEff.pdf used on input l
+ine 41.
+(pdftex.def)             Requested size: 364.19664pt x 261.43721pt.
+ [56 <./figs/sec_sys/pp13/sys_pp13_trigEff_eg.pdf, page is rotated 90 degrees> 
+<./figs/sec_sys/pp13/sys_pp13_trigEff_table_1.png> <./figs/sec_sys/pp13/sys_pp1
+3_trigEff_table_2.png>]
+<figs/sec_sys/pp13/sys_pp13_trkEff.pdf, id=4039, 569.12625pt x 408.52625pt>
+File: figs/sec_sys/pp13/sys_pp13_trkEff.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pp13/sys_pp13_trkEff.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_trkEff.pdf used on input li
+ne 54.
+(pdftex.def)             Requested size: 364.19664pt x 261.43721pt.
+ [57 <./figs/sec_sys/pp13/sys_pp13_trigEff.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pp13/sys_pp13_trkEff_sys.png, id=4090, 1004.75375pt x 709.65125pt
+>
+File: figs/sec_sys/pp13/sys_pp13_trkEff_sys.png Graphic file (type png)
+ <use figs/sec_sys/pp13/sys_pp13_trkEff_sys.png>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_trkEff_sys.png used on inpu
+t line 68.
+(pdftex.def)             Requested size: 364.19664pt x 257.22845pt.
+ [58 <./figs/sec_sys/pp13/sys_pp13_trkEff.pdf, page is rotated 90 degrees>] [59
+ <./figs/sec_sys/pp13/sys_pp13_trkEff_sys.png>]
+<figs/sec_sys/pp13/sys_pp13_trkSlc.pdf, id=4145, 569.12625pt x 408.52625pt>
+File: figs/sec_sys/pp13/sys_pp13_trkSlc.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pp13/sys_pp13_trkSlc.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_trkSlc.pdf used on input li
+ne 101.
+(pdftex.def)             Requested size: 364.19664pt x 261.43721pt.
+
+<figs/sec_sys/pp13/sys_pp13_pileUp_table.png, id=4148, 1232.605pt x 131.49126pt
+>
+File: figs/sec_sys/pp13/sys_pp13_pileUp_table.png Graphic file (type png)
+ <use figs/sec_sys/pp13/sys_pp13_pileUp_table.png>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_pileUp_table.png used on in
+put line 120.
+(pdftex.def)             Requested size: 455.24408pt x 48.56271pt.
+ [60 <./figs/sec_sys/pp13/sys_pp13_trkSlc.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pp13/sys_pp13_pileUp.pdf, id=4199, 569.12625pt x 408.52625pt>
+File: figs/sec_sys/pp13/sys_pp13_pileUp.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pp13/sys_pp13_pileUp.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_pileUp.pdf used on input li
+ne 127.
+(pdftex.def)             Requested size: 364.19664pt x 261.43721pt.
+
+<figs/sec_sys/pp13/sys_pp13_flat_eg.png, id=4200, 1263.72125pt x 561.09625pt>
+File: figs/sec_sys/pp13/sys_pp13_flat_eg.png Graphic file (type png)
+
+<use figs/sec_sys/pp13/sys_pp13_flat_eg.png>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_flat_eg.png used on input l
+ine 140.
+(pdftex.def)             Requested size: 364.19664pt x 161.70346pt.
+ [61 <./figs/sec_sys/pp13/sys_pp13_pileUp_table.png> <./figs/sec_sys/pp13/sys_p
+p13_pileUp.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pp13/sys_pp13_flat.pdf, id=4252, 569.12625pt x 408.52625pt>
+File: figs/sec_sys/pp13/sys_pp13_flat.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pp13/sys_pp13_flat.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_flat.pdf used on input line
+ 152.
+(pdftex.def)             Requested size: 364.19664pt x 261.43721pt.
+ [62 <./figs/sec_sys/pp13/sys_pp13_flat_eg.png> <./figs/sec_sys/pp13/sys_pp13_f
+lat.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pp13/sys_pp13_binWidth1.pdf, id=4305, 569.12625pt x 408.52625pt>
+File: figs/sec_sys/pp13/sys_pp13_binWidth1.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pp13/sys_pp13_binWidth1.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_binWidth1.pdf used on input
+ line 164.
+(pdftex.def)             Requested size: 364.19664pt x 261.43721pt.
+
+<figs/sec_sys/pp13/sys_pp13_binWidth2.pdf, id=4306, 569.12625pt x 408.52625pt>
+File: figs/sec_sys/pp13/sys_pp13_binWidth2.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pp13/sys_pp13_binWidth2.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_binWidth2.pdf used on input
+ line 165.
+(pdftex.def)             Requested size: 364.19664pt x 261.43721pt.
+ [63] [64 <./figs/sec_sys/pp13/sys_pp13_binWidth1.pdf, page is rotated 90 degre
+es> <./figs/sec_sys/pp13/sys_pp13_binWidth2.pdf, page is rotated 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 172.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\etaa' on input line 172.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 172.
+
+<figs/sec_sys/pp13/sys_pp13_gap_eg.png, id=4403, 1157.32375pt x 364.36125pt>
+File: figs/sec_sys/pp13/sys_pp13_gap_eg.png Graphic file (type png)
+
+<use figs/sec_sys/pp13/sys_pp13_gap_eg.png>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_gap_eg.png used on input li
+ne 177.
+(pdftex.def)             Requested size: 364.19664pt x 114.65764pt.
+
+<figs/sec_sys/pp13/sys_pp13_gap.pdf, id=4405, 569.12625pt x 408.52625pt>
+File: figs/sec_sys/pp13/sys_pp13_gap.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pp13/sys_pp13_gap.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_gap.pdf used on input line 
+185.
+(pdftex.def)             Requested size: 364.19664pt x 261.43721pt.
+ [65 <./figs/sec_sys/pp13/sys_pp13_gap_eg.png>]
+<figs/sec_sys/pp13/charge_dependence_2sub.png, id=4414, 1162.3425pt x 603.25375
+pt>
+File: figs/sec_sys/pp13/charge_dependence_2sub.png Graphic file (type png)
+ <use figs/sec_sys/pp13/charge_dependence_2sub.png>
+Package pdftex.def Info: figs/sec_sys/pp13/charge_dependence_2sub.png used on i
+nput line 198.
+(pdftex.def)             Requested size: 364.19664pt x 189.0134pt.
+ [66 <./figs/sec_sys/pp13/sys_pp13_gap.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pp13/MC_closure_1sub_pt0.pdf, id=4465, 569.12625pt x 534.99875pt>
+File: figs/sec_sys/pp13/MC_closure_1sub_pt0.pdf Graphic file (type pdf)
+<use figs/sec_sys/pp13/MC_closure_1sub_pt0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/MC_closure_1sub_pt0.pdf used on inpu
+t line 211.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_sys/pp13/MC_closure_1sub_pt1.pdf, id=4466, 569.12625pt x 534.99875pt>
+File: figs/sec_sys/pp13/MC_closure_1sub_pt1.pdf Graphic file (type pdf)
+<use figs/sec_sys/pp13/MC_closure_1sub_pt1.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/MC_closure_1sub_pt1.pdf used on inpu
+t line 212.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+ [67 <./figs/sec_sys/pp13/charge_dependence_2sub.png>]
+<figs/sec_sys/pp13/MC_closure_3sub_pt0.pdf, id=4474, 569.12625pt x 534.99875pt>
+File: figs/sec_sys/pp13/MC_closure_3sub_pt0.pdf Graphic file (type pdf)
+<use figs/sec_sys/pp13/MC_closure_3sub_pt0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/MC_closure_3sub_pt0.pdf used on inpu
+t line 221.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_sys/pp13/MC_closure_3sub_pt1.pdf, id=4475, 569.12625pt x 534.99875pt>
+File: figs/sec_sys/pp13/MC_closure_3sub_pt1.pdf Graphic file (type pdf)
+<use figs/sec_sys/pp13/MC_closure_3sub_pt1.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/MC_closure_3sub_pt1.pdf used on inpu
+t line 222.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+ [68 <./figs/sec_sys/pp13/MC_closure_1sub_pt0.pdf, page is rotated 90 degrees> 
+<./figs/sec_sys/pp13/MC_closure_1sub_pt1.pdf, page is rotated 90 degrees> <./fi
+gs/sec_sys/pp13/MC_closure_3sub_pt0.pdf, page is rotated 90 degrees> <./figs/se
+c_sys/pp13/MC_closure_3sub_pt1.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pp13/MC_closure_1sub_flow.pdf, id=4656, 569.12625pt x 534.99875pt
+>
+File: figs/sec_sys/pp13/MC_closure_1sub_flow.pdf Graphic file (type pdf)
+ <use figs/sec_sys/pp13/MC_closure_1sub_flow.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/MC_closure_1sub_flow.pdf used on inp
+ut line 231.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_sys/pp13/MC_closure_3sub_flow.pdf, id=4657, 569.12625pt x 534.99875pt
+>
+File: figs/sec_sys/pp13/MC_closure_3sub_flow.pdf Graphic file (type pdf)
+ <use figs/sec_sys/pp13/MC_closure_3sub_flow.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/MC_closure_3sub_flow.pdf used on inp
+ut line 232.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+
+LaTeX Warning: Reference `fig:closure_flow' on page 69 undefined on input line 
+236.
+
+
+<figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt0_Cls0.pdf, id=4658, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt0_Cls0.pdf used
+ on input line 244.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt0_Cls0.pdf, id=4659, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt0_Cls0.pdf used
+ on input line 245.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt0_Cls0.pdf, id=4660, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt0_Cls0.pdf used
+ on input line 246.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+ [69 <./figs/sec_sys/pp13/MC_closure_1sub_flow.pdf, page is rotated 90 degrees>
+ <./figs/sec_sys/pp13/MC_closure_3sub_flow.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt1_Cls0.pdf, id=4756, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt1_Cls0.pdf used
+ on input line 260.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt1_Cls0.pdf, id=4757, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt1_Cls0.pdf used
+ on input line 261.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt1_Cls0.pdf, id=4758, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt1_Cls0.pdf used
+ on input line 262.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+ [70 <./figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt0_Cls0.pdf, page is rotated 90 d
+egrees> <./figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt0_Cls0.pdf, page is rotated 9
+0 degrees> <./figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt0_Cls0.pdf, page is rotate
+d 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 269.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 269.
+
+
+<figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt0_Cls0.pdf, id=4895, 569.12625pt x 534.99
+875pt>
+File: figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt0_Cls0.pdf used o
+n input line 284.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt0_Cls0.pdf, id=4896, 569.12625pt x 534.99
+875pt>
+File: figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt0_Cls0.pdf used o
+n input line 285.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt0_Cls0.pdf, id=4897, 569.12625pt x 534.99
+875pt>
+File: figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt0_Cls0.pdf used o
+n input line 286.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt1_Cls0.pdf, id=4898, 569.12625pt x 534.99
+875pt>
+File: figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt1_Cls0.pdf used o
+n input line 293.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt1_Cls0.pdf, id=4899, 569.12625pt x 534.99
+875pt>
+File: figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt1_Cls0.pdf used o
+n input line 294.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt1_Cls0.pdf, id=4900, 569.12625pt x 534.99
+875pt>
+File: figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt1_Cls0.pdf used o
+n input line 295.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+ [71 <./figs/sec_sys/pp13/sys_pp13_NNNN_Har0_Pt1_Cls0.pdf, page is rotated 90 d
+egrees> <./figs/sec_sys/pp13/sys_pp13_ABAB_Har0_Pt1_Cls0.pdf, page is rotated 9
+0 degrees> <./figs/sec_sys/pp13/sys_pp13_ABAC_Har0_Pt1_Cls0.pdf, page is rotate
+d 90 degrees> <./figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt0_Cls0.pdf, page is rotat
+ed 90 degrees> <./figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt0_Cls0.pdf, page is rota
+ted 90 degrees> <./figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt0_Cls0.pdf, page is rot
+ated 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 303.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 303.
+
+<figs/sec_sys/pPb5/PU_cnt_Pt0.pdf, id=5166, 569.12625pt x 534.99875pt>
+File: figs/sec_sys/pPb5/PU_cnt_Pt0.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pPb5/PU_cnt_Pt0.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/PU_cnt_Pt0.pdf used on input line 31
+3.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_sys/pPb5/PU_cnt_Pt1.pdf, id=5167, 569.12625pt x 534.99875pt>
+File: figs/sec_sys/pPb5/PU_cnt_Pt1.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pPb5/PU_cnt_Pt1.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/PU_cnt_Pt1.pdf used on input line 31
+4.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_sys/pPb5/PU_c4_1sub_Pt0.pdf, id=5169, 569.12625pt x 534.99875pt>
+File: figs/sec_sys/pPb5/PU_c4_1sub_Pt0.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pPb5/PU_c4_1sub_Pt0.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/PU_c4_1sub_Pt0.pdf used on input lin
+e 322.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+
+<figs/sec_sys/pPb5/PU_c4_1sub_Pt1.pdf, id=5170, 569.12625pt x 534.99875pt>
+File: figs/sec_sys/pPb5/PU_c4_1sub_Pt1.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/pPb5/PU_c4_1sub_Pt1.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/PU_c4_1sub_Pt1.pdf used on input lin
+e 323.
+(pdftex.def)             Requested size: 204.85844pt x 192.5749pt.
+ [72 <./figs/sec_sys/pp5/sys_pp5_NNNN_Har0_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_sys/pp5/sys_pp5_ABAB_Har0_Pt1_Cls0.pdf, page is rotated 90 de
+grees> <./figs/sec_sys/pp5/sys_pp5_ABAC_Har0_Pt1_Cls0.pdf, page is rotated 90 d
+egrees> <./figs/sec_sys/pPb5/PU_cnt_Pt0.pdf, page is rotated 90 degrees> <./fig
+s/sec_sys/pPb5/PU_cnt_Pt1.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt0_Cls0.pdf, id=5395, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt0_Cls0.pdf used
+ on input line 345.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt0_Cls0.pdf, id=5396, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt0_Cls0.pdf used
+ on input line 346.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt0_Cls0.pdf, id=5397, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt0_Cls0.pdf used
+ on input line 347.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+ [73 <./figs/sec_sys/pPb5/PU_c4_1sub_Pt0.pdf, page is rotated 90 degrees> <./fi
+gs/sec_sys/pPb5/PU_c4_1sub_Pt1.pdf, page is rotated 90 degrees>]
+<figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt1_Cls0.pdf, id=5489, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt1_Cls0.pdf used
+ on input line 354.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt1_Cls0.pdf, id=5490, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt1_Cls0.pdf used
+ on input line 355.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt1_Cls0.pdf, id=5491, 569.12625pt x 534.
+99875pt>
+File: figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+
+ <use figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt1_Cls0.pdf used
+ on input line 356.
+(pdftex.def)             Requested size: 136.5746pt x 128.38599pt.
+
+<figs/sec_sys/systematic_table.pdf, id=5493, 2890.8pt x 1927.2pt>
+File: figs/sec_sys/systematic_table.pdf Graphic file (type pdf)
+
+<use figs/sec_sys/systematic_table.pdf>
+Package pdftex.def Info: figs/sec_sys/systematic_table.pdf used on input line 3
+70.
+(pdftex.def)             Requested size: 455.24408pt x 303.47679pt.
+ [74 <./figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt0_Cls0.pdf, page is rotated 90 d
+egrees> <./figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt0_Cls0.pdf, page is rotated 9
+0 degrees> <./figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt0_Cls0.pdf, page is rotate
+d 90 degrees> <./figs/sec_sys/pPb5/sys_pPb5_NNNN_Har0_Pt1_Cls0.pdf, page is rot
+ated 90 degrees> <./figs/sec_sys/pPb5/sys_pPb5_ABAB_Har0_Pt1_Cls0.pdf, page is 
+rotated 90 degrees> <./figs/sec_sys/pPb5/sys_pPb5_ABAC_Har0_Pt1_Cls0.pdf, page 
+is rotated 90 degrees>]) [75 <./figs/sec_sys/systematic_table.pdf>] (./sec_resu
+lt.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+<figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls0.pdf, id=5784, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls0.pdf used on
+ input line 5.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls0.pdf, id=5785, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls0.pdf used on
+ input line 6.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls1.pdf, id=5786, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls1.pdf used on
+ input line 7.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls1.pdf, id=5787, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls1.pdf used on
+ input line 8.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls2.pdf, id=5788, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls2.pdf used on
+ input line 9.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls2.pdf, id=5789, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls2.pdf used on
+ input line 10.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls3.pdf, id=5790, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls3.pdf used on
+ input line 11.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls3.pdf, id=5791, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls3.pdf used on
+ input line 12.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 15.
+
+[76
+
+] [77 <./figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har0_Pt0_Cls3.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har0_Pt1_Cls3.pdf, page is rotated 90 deg
+rees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 18.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 18.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 18.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 18.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 18.
+
+
+<figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls0.pdf, id=6148, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls0.pdf used on
+ input line 22.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls0.pdf, id=6149, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls0.pdf used on
+ input line 23.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls1.pdf, id=6150, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls1.pdf used on
+ input line 24.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls1.pdf, id=6151, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls1.pdf used on
+ input line 25.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls2.pdf, id=6152, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls2.pdf used on
+ input line 26.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls2.pdf, id=6153, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls2.pdf used on
+ input line 27.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls3.pdf, id=6154, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls3.pdf used on
+ input line 28.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls3.pdf, id=6155, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls3.pdf used on
+ input line 29.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 32.
+
+[78
+
+] [79 <./figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har1_Pt0_Cls3.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_2PC_Har1_Pt1_Cls3.pdf, page is rotated 90 deg
+rees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 35.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 35.
+
+
+<figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls0.pdf, id=6513, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls0.pdf used on
+ input line 39.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls0.pdf, id=6514, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls0.pdf used on
+ input line 40.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls1.pdf, id=6515, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls1.pdf used on
+ input line 41.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls1.pdf, id=6516, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls1.pdf used on
+ input line 42.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls2.pdf, id=6517, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls2.pdf used on
+ input line 43.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls2.pdf, id=6518, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls2.pdf used on
+ input line 44.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls3.pdf, id=6519, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls3.pdf used on
+ input line 45.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls3.pdf, id=6520, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls3.pdf used on
+ input line 46.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 49.
+
+[80
+
+] [81 <./figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har0_Pt0_Cls3.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har0_Pt1_Cls3.pdf, page is rotated 90 deg
+rees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 52.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 52.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 52.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 52.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 52.
+
+
+<figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls0.pdf, id=6876, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls0.pdf used on
+ input line 56.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls0.pdf, id=6877, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls0.pdf used on
+ input line 57.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls1.pdf, id=6878, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls1.pdf used on
+ input line 58.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls1.pdf, id=6879, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls1.pdf used on
+ input line 59.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls2.pdf, id=6880, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls2.pdf used on
+ input line 60.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls2.pdf, id=6881, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls2.pdf used on
+ input line 61.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls3.pdf, id=6882, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls3.pdf used on
+ input line 62.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls3.pdf, id=6883, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls3.pdf used on
+ input line 63.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 66.
+
+[82
+
+] [83 <./figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har1_Pt0_Cls3.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pp13/phy_4PC_Har1_Pt1_Cls3.pdf, page is rotated 90 deg
+rees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 74.
+
+
+<figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls0.pdf, id=7240, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls0.pdf used on 
+input line 78.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls0.pdf, id=7241, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls0.pdf used on 
+input line 79.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls1.pdf, id=7242, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls1.pdf used on 
+input line 80.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls1.pdf, id=7243, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls1.pdf used on 
+input line 81.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls2.pdf, id=7244, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls2.pdf used on 
+input line 82.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls2.pdf, id=7245, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls2.pdf used on 
+input line 83.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls3.pdf, id=7246, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls3.pdf used on 
+input line 84.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls3.pdf, id=7247, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls3.pdf used on 
+input line 85.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 88.
+
+[84
+
+] [85 <./figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls0.pdf, page is rotated 90 degr
+ees> <./figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls0.pdf, page is rotated 90 degre
+es> <./figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls1.pdf, page is rotated 90 degree
+s> <./figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls1.pdf, page is rotated 90 degrees
+> <./figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls2.pdf, page is rotated 90 degrees>
+ <./figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls2.pdf, page is rotated 90 degrees> 
+<./figs/sec_result/pp5/phy_2PC_Har0_Pt0_Cls3.pdf, page is rotated 90 degrees> <
+./figs/sec_result/pp5/phy_2PC_Har0_Pt1_Cls3.pdf, page is rotated 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 91.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 91.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 91.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 91.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 91.
+
+
+<figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls0.pdf, id=7604, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls0.pdf used on 
+input line 95.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls0.pdf, id=7605, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls0.pdf used on 
+input line 96.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls1.pdf, id=7606, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls1.pdf used on 
+input line 97.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls1.pdf, id=7607, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls1.pdf used on 
+input line 98.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls2.pdf, id=7608, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls2.pdf used on 
+input line 99.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls2.pdf, id=7609, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls2.pdf used on 
+input line 100.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls3.pdf, id=7610, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls3.pdf used on 
+input line 101.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls3.pdf, id=7611, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls3.pdf used on 
+input line 102.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 105.
+
+[86
+
+] [87 <./figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls0.pdf, page is rotated 90 degr
+ees> <./figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls0.pdf, page is rotated 90 degre
+es> <./figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls1.pdf, page is rotated 90 degree
+s> <./figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls1.pdf, page is rotated 90 degrees
+> <./figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls2.pdf, page is rotated 90 degrees>
+ <./figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls2.pdf, page is rotated 90 degrees> 
+<./figs/sec_result/pp5/phy_2PC_Har1_Pt0_Cls3.pdf, page is rotated 90 degrees> <
+./figs/sec_result/pp5/phy_2PC_Har1_Pt1_Cls3.pdf, page is rotated 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 108.
+
+
+<figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls0.pdf, id=7968, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls0.pdf used on 
+input line 112.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls0.pdf, id=7969, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls0.pdf used on 
+input line 113.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls1.pdf, id=7970, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls1.pdf used on 
+input line 114.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls1.pdf, id=7971, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls1.pdf used on 
+input line 115.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls2.pdf, id=7972, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls2.pdf used on 
+input line 116.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls2.pdf, id=7973, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls2.pdf used on 
+input line 117.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls3.pdf, id=7974, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls3.pdf used on 
+input line 118.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls3.pdf, id=7975, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls3.pdf used on 
+input line 119.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 122.
+
+[88
+
+] [89 <./figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls0.pdf, page is rotated 90 degr
+ees> <./figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls0.pdf, page is rotated 90 degre
+es> <./figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls1.pdf, page is rotated 90 degree
+s> <./figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls1.pdf, page is rotated 90 degrees
+> <./figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls2.pdf, page is rotated 90 degrees>
+ <./figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls2.pdf, page is rotated 90 degrees> 
+<./figs/sec_result/pp5/phy_4PC_Har0_Pt0_Cls3.pdf, page is rotated 90 degrees> <
+./figs/sec_result/pp5/phy_4PC_Har0_Pt1_Cls3.pdf, page is rotated 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 125.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 125.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 125.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 125.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 125.
+
+
+<figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls0.pdf, id=8331, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls0.pdf used on 
+input line 129.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls0.pdf, id=8332, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls0.pdf used on 
+input line 130.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls1.pdf, id=8333, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls1.pdf used on 
+input line 131.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls1.pdf, id=8334, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls1.pdf used on 
+input line 132.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls2.pdf, id=8335, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls2.pdf used on 
+input line 133.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls2.pdf, id=8336, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls2.pdf used on 
+input line 134.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls3.pdf, id=8337, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls3.pdf used on 
+input line 135.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls3.pdf, id=8338, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls3.pdf used on 
+input line 136.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 139.
+
+[90
+
+] [91 <./figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls0.pdf, page is rotated 90 degr
+ees> <./figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls0.pdf, page is rotated 90 degre
+es> <./figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls1.pdf, page is rotated 90 degree
+s> <./figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls1.pdf, page is rotated 90 degrees
+> <./figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls2.pdf, page is rotated 90 degrees>
+ <./figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls2.pdf, page is rotated 90 degrees> 
+<./figs/sec_result/pp5/phy_4PC_Har1_Pt0_Cls3.pdf, page is rotated 90 degrees> <
+./figs/sec_result/pp5/phy_4PC_Har1_Pt1_Cls3.pdf, page is rotated 90 degrees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 147.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 147.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 147.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 147.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 147.
+
+
+<figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls0.pdf, id=8696, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls0.pdf used on
+ input line 151.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls0.pdf, id=8697, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls0.pdf used on
+ input line 152.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls1.pdf, id=8698, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls1.pdf used on
+ input line 153.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls1.pdf, id=8699, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls1.pdf used on
+ input line 154.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls2.pdf, id=8700, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls2.pdf used on
+ input line 155.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls2.pdf, id=8701, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls2.pdf used on
+ input line 156.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls3.pdf, id=8702, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls3.pdf used on
+ input line 157.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls3.pdf, id=8703, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls3.pdf used on
+ input line 158.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 161.
+
+[92
+
+] [93 <./figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har0_Pt0_Cls3.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har0_Pt1_Cls3.pdf, page is rotated 90 deg
+rees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 164.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 164.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 164.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 164.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 164.
+
+
+<figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls0.pdf, id=9059, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls0.pdf used on
+ input line 168.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls0.pdf, id=9060, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls0.pdf used on
+ input line 169.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls1.pdf, id=9061, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls1.pdf used on
+ input line 170.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls1.pdf, id=9062, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls1.pdf used on
+ input line 171.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls2.pdf, id=9063, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls2.pdf used on
+ input line 172.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls2.pdf, id=9064, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls2.pdf used on
+ input line 173.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls3.pdf, id=9065, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls3.pdf used on
+ input line 174.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls3.pdf, id=9066, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls3.pdf used on
+ input line 175.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 178.
+
+[94
+
+] [95 <./figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har1_Pt0_Cls3.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_2PC_Har1_Pt1_Cls3.pdf, page is rotated 90 deg
+rees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 181.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 181.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 181.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 181.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 181.
+
+
+<figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls0.pdf, id=9423, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls0.pdf used on
+ input line 185.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls0.pdf, id=9424, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls0.pdf used on
+ input line 186.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls1.pdf, id=9425, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls1.pdf used on
+ input line 187.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls1.pdf, id=9426, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls1.pdf used on
+ input line 188.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls2.pdf, id=9427, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls2.pdf used on
+ input line 189.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls2.pdf, id=9428, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls2.pdf used on
+ input line 190.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls3.pdf, id=9429, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls3.pdf used on
+ input line 191.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls3.pdf, id=9430, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls3.pdf used on
+ input line 192.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 195.
+
+[96
+
+] [97 <./figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har0_Pt0_Cls3.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har0_Pt1_Cls3.pdf, page is rotated 90 deg
+rees>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 198.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 198.
+
+
+<figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls0.pdf, id=9787, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls0.pdf used on
+ input line 202.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls0.pdf, id=9788, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls0.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls0.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls0.pdf used on
+ input line 203.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls1.pdf, id=9789, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls1.pdf used on
+ input line 204.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls1.pdf, id=9790, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls1.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls1.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls1.pdf used on
+ input line 205.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls2.pdf, id=9791, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls2.pdf used on
+ input line 206.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls2.pdf, id=9792, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls2.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls2.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls2.pdf used on
+ input line 207.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls3.pdf, id=9793, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls3.pdf used on
+ input line 208.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+<figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls3.pdf, id=9794, 569.12625pt x 534.998
+75pt>
+File: figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls3.pdf Graphic file (type pdf)
+ <use figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls3.pdf>
+Package pdftex.def Info: figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls3.pdf used on
+ input line 209.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+
+
+LaTeX Warning: Float too large for page by 51.21057pt on input line 212.
+
+[98
+
+] [99 <./figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls0.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls1.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls2.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har1_Pt0_Cls3.pdf, page is rotated 90 deg
+rees> <./figs/sec_result/pPb5/phy_4PC_Har1_Pt1_Cls3.pdf, page is rotated 90 deg
+rees>]
+<figs/sec_result/phy_sys_pt0_har0.pdf, id=10150, 569.12625pt x 265.99374pt>
+File: figs/sec_result/phy_sys_pt0_har0.pdf Graphic file (type pdf)
+
+<use figs/sec_result/phy_sys_pt0_har0.pdf>
+Package pdftex.def Info: figs/sec_result/phy_sys_pt0_har0.pdf used on input lin
+e 220.
+(pdftex.def)             Requested size: 364.19664pt x 170.22324pt.
+
+<figs/sec_result/phy_sys_pt1_har0.pdf, id=10151, 569.12625pt x 265.99374pt>
+File: figs/sec_result/phy_sys_pt1_har0.pdf Graphic file (type pdf)
+
+<use figs/sec_result/phy_sys_pt1_har0.pdf>
+Package pdftex.def Info: figs/sec_result/phy_sys_pt1_har0.pdf used on input lin
+e 226.
+(pdftex.def)             Requested size: 364.19664pt x 170.22324pt.
+
+<figs/sec_result/phy_sys_pt0_har1.pdf, id=10154, 569.12625pt x 265.99374pt>
+File: figs/sec_result/phy_sys_pt0_har1.pdf Graphic file (type pdf)
+
+<use figs/sec_result/phy_sys_pt0_har1.pdf>
+Package pdftex.def Info: figs/sec_result/phy_sys_pt0_har1.pdf used on input lin
+e 234.
+(pdftex.def)             Requested size: 364.19664pt x 170.22324pt.
+
+<figs/sec_result/phy_sys_pt1_har1.pdf, id=10155, 569.12625pt x 265.99374pt>
+File: figs/sec_result/phy_sys_pt1_har1.pdf Graphic file (type pdf)
+
+<use figs/sec_result/phy_sys_pt1_har1.pdf>
+Package pdftex.def Info: figs/sec_result/phy_sys_pt1_har1.pdf used on input lin
+e 240.
+(pdftex.def)             Requested size: 364.19664pt x 170.22324pt.
+ [100
+
+ <./figs/sec_result/phy_sys_pt0_har0.pdf, page is rotated 90 degrees> <./figs/s
+ec_result/phy_sys_pt1_har0.pdf, page is rotated 90 degrees>] [101 <./figs/sec_r
+esult/phy_sys_pt0_har1.pdf, page is rotated 90 degrees> <./figs/sec_result/phy_
+sys_pt1_har1.pdf, page is rotated 90 degrees>]
+<figs/sec_result/phy_comp_pt0.pdf, id=10346, 569.12625pt x 176.66pt>
+File: figs/sec_result/phy_comp_pt0.pdf Graphic file (type pdf)
+
+<use figs/sec_result/phy_comp_pt0.pdf>
+Package pdftex.def Info: figs/sec_result/phy_comp_pt0.pdf used on input line 25
+4.
+(pdftex.def)             Requested size: 364.19664pt x 113.05391pt.
+
+<figs/sec_result/phy_comp_pt1.pdf, id=10347, 569.12625pt x 176.66pt>
+File: figs/sec_result/phy_comp_pt1.pdf Graphic file (type pdf)
+
+<use figs/sec_result/phy_comp_pt1.pdf>
+Package pdftex.def Info: figs/sec_result/phy_comp_pt1.pdf used on input line 26
+0.
+(pdftex.def)             Requested size: 364.19664pt x 113.05391pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 268.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 268.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 268.
+
+[102 <./figs/sec_result/phy_comp_pt0.pdf, page is rotated 90 degrees> <./figs/s
+ec_result/phy_comp_pt1.pdf, page is rotated 90 degrees>]
+<figs/sec_result/phy_Ns_pt0.pdf, id=10445, 569.12625pt x 426.59375pt>
+File: figs/sec_result/phy_Ns_pt0.pdf Graphic file (type pdf)
+
+<use figs/sec_result/phy_Ns_pt0.pdf>
+Package pdftex.def Info: figs/sec_result/phy_Ns_pt0.pdf used on input line 281.
+
+(pdftex.def)             Requested size: 204.85844pt x 153.5541pt.
+
+<figs/sec_result/phy_Ns_pt1.pdf, id=10446, 569.12625pt x 426.59375pt>
+File: figs/sec_result/phy_Ns_pt1.pdf Graphic file (type pdf)
+
+<use figs/sec_result/phy_Ns_pt1.pdf>
+Package pdftex.def Info: figs/sec_result/phy_Ns_pt1.pdf used on input line 282.
+
+(pdftex.def)             Requested size: 204.85844pt x 153.5541pt.
+) [103 <./figs/sec_result/phy_Ns_pt0.pdf, page is rotated 90 degrees> <./figs/s
+ec_result/phy_Ns_pt1.pdf, page is rotated 90 degrees>] (./sec_summary.tex) [104
+
+] (./sec_appdx.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+<figs/sec_evtSlc/stat_pp13_run1.pdf, id=10547, 569.12625pt x 367.3725pt>
+File: figs/sec_evtSlc/stat_pp13_run1.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/stat_pp13_run1.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/stat_pp13_run1.pdf used on input line 
+5.
+(pdftex.def)             Requested size: 409.71689pt x 264.48555pt.
+
+<figs/sec_evtSlc/stat_pp13_run2_1.pdf, id=10548, 569.12625pt x 367.3725pt>
+File: figs/sec_evtSlc/stat_pp13_run2_1.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/stat_pp13_run2_1.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/stat_pp13_run2_1.pdf used on input lin
+e 12.
+(pdftex.def)             Requested size: 409.71689pt x 264.48555pt.
+ [105
+
+ <./figs/sec_evtSlc/stat_pp13_run1.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/stat_pp13_run2_2.pdf, id=10574, 569.12625pt x 367.3725pt>
+File: figs/sec_evtSlc/stat_pp13_run2_2.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/stat_pp13_run2_2.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/stat_pp13_run2_2.pdf used on input lin
+e 19.
+(pdftex.def)             Requested size: 409.71689pt x 264.48555pt.
+
+<figs/sec_evtSlc/stat_pp13_run3.pdf, id=10575, 569.12625pt x 323.2075pt>
+File: figs/sec_evtSlc/stat_pp13_run3.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/stat_pp13_run3.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/stat_pp13_run3.pdf used on input line 
+26.
+(pdftex.def)             Requested size: 409.71689pt x 232.6895pt.
+ [106 <./figs/sec_evtSlc/stat_pp13_run2_1.pdf, page is rotated 90 degrees> <./f
+igs/sec_evtSlc/stat_pp13_run2_2.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/stat_pp13_run4_1.pdf, id=10668, 569.12625pt x 367.3725pt>
+File: figs/sec_evtSlc/stat_pp13_run4_1.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/stat_pp13_run4_1.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/stat_pp13_run4_1.pdf used on input lin
+e 33.
+(pdftex.def)             Requested size: 409.71689pt x 264.48555pt.
+
+<figs/sec_evtSlc/stat_pp13_run4_2.pdf, id=10669, 569.12625pt x 367.3725pt>
+File: figs/sec_evtSlc/stat_pp13_run4_2.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/stat_pp13_run4_2.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/stat_pp13_run4_2.pdf used on input lin
+e 40.
+(pdftex.def)             Requested size: 409.71689pt x 264.48555pt.
+ [107 <./figs/sec_evtSlc/stat_pp13_run3.pdf, page is rotated 90 degrees> <./fig
+s/sec_evtSlc/stat_pp13_run4_1.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/stat_pp13_run4_3.pdf, id=10763, 569.12625pt x 367.3725pt>
+File: figs/sec_evtSlc/stat_pp13_run4_3.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/stat_pp13_run4_3.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/stat_pp13_run4_3.pdf used on input lin
+e 47.
+(pdftex.def)             Requested size: 409.71689pt x 264.48555pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 54.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 54.
+
+<figs/sec_evtSlc/stat_pp5.pdf, id=10764, 569.12625pt x 367.3725pt>
+File: figs/sec_evtSlc/stat_pp5.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/stat_pp5.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/stat_pp5.pdf used on input line 57.
+(pdftex.def)             Requested size: 409.71689pt x 264.48555pt.
+ [108 <./figs/sec_evtSlc/stat_pp13_run4_2.pdf, page is rotated 90 degrees> <./f
+igs/sec_evtSlc/stat_pp13_run4_3.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/trkEff_pp13_mon_dis_zVtx.pdf, id=10859, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_evtSlc/trkEff_pp13_mon_dis_zVtx.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_dis_zVtx.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_dis_zVtx.pdf used on i
+nput line 71.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+<figs/sec_evtSlc/trkEff_pp13_mon_crr_zVtx.pdf, id=10860, 569.12625pt x 534.9987
+5pt>
+File: figs/sec_evtSlc/trkEff_pp13_mon_crr_zVtx.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_crr_zVtx.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_crr_zVtx.pdf used on i
+nput line 76.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+<figs/sec_evtSlc/trkEff_pp13_mon_dis_nCh.pdf, id=10861, 569.12625pt x 534.99875
+pt>
+File: figs/sec_evtSlc/trkEff_pp13_mon_dis_nCh.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_dis_nCh.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_dis_nCh.pdf used on in
+put line 81.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+<figs/sec_evtSlc/trkEff_pp13_mon_crr_nCh.pdf, id=10862, 569.12625pt x 534.99875
+pt>
+File: figs/sec_evtSlc/trkEff_pp13_mon_crr_nCh.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_crr_nCh.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_crr_nCh.pdf used on in
+put line 86.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 69--89
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 69--89
+[]$ $[]$ 
+ []
+
+[109 <./figs/sec_evtSlc/stat_pp5.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/zVtx_MC_data.pdf, id=10913, 569.12625pt x 534.99875pt>
+File: figs/sec_evtSlc/zVtx_MC_data.pdf Graphic file (type pdf)
+
+<use figs/sec_evtSlc/zVtx_MC_data.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/zVtx_MC_data.pdf used on input line 99
+.
+(pdftex.def)             Requested size: 182.09485pt x 171.1786pt.
+ [110 <./figs/sec_evtSlc/trkEff_pp13_mon_dis_zVtx.pdf, page is rotated 90 degre
+es> <./figs/sec_evtSlc/trkEff_pp13_mon_crr_zVtx.pdf, page is rotated 90 degrees
+> <./figs/sec_evtSlc/trkEff_pp13_mon_dis_nCh.pdf, page is rotated 90 degrees> <
+./figs/sec_evtSlc/trkEff_pp13_mon_crr_nCh.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/trkEff_pp13_mon_dis_pT.pdf, id=11093, 569.12625pt x 534.99875p
+t>
+File: figs/sec_evtSlc/trkEff_pp13_mon_dis_pT.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_dis_pT.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_dis_pT.pdf used on inp
+ut line 109.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+<figs/sec_evtSlc/trkEff_pp13_mon_crr_pT.pdf, id=11094, 569.12625pt x 534.99875p
+t>
+File: figs/sec_evtSlc/trkEff_pp13_mon_crr_pT.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_crr_pT.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_crr_pT.pdf used on inp
+ut line 114.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+<figs/sec_evtSlc/trkEff_pp13_mon_dis_eta.pdf, id=11095, 569.12625pt x 534.99875
+pt>
+File: figs/sec_evtSlc/trkEff_pp13_mon_dis_eta.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_dis_eta.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_dis_eta.pdf used on in
+put line 119.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+<figs/sec_evtSlc/trkEff_pp13_mon_crr_eta.pdf, id=11096, 569.12625pt x 534.99875
+pt>
+File: figs/sec_evtSlc/trkEff_pp13_mon_crr_eta.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_crr_eta.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_crr_eta.pdf used on in
+put line 124.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+<figs/sec_evtSlc/trkEff_pp13_mon_dis_phi.pdf, id=11097, 569.12625pt x 534.99875
+pt>
+File: figs/sec_evtSlc/trkEff_pp13_mon_dis_phi.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_dis_phi.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_dis_phi.pdf used on in
+put line 129.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+<figs/sec_evtSlc/trkEff_pp13_mon_crr_phi.pdf, id=11098, 569.12625pt x 534.99875
+pt>
+File: figs/sec_evtSlc/trkEff_pp13_mon_crr_phi.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/trkEff_pp13_mon_crr_phi.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/trkEff_pp13_mon_crr_phi.pdf used on in
+put line 134.
+(pdftex.def)             Requested size: 227.62204pt x 213.9712pt.
+
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 107--137
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 107--137
+[]$ $[]$
+ []
+
+
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 107--137
+[]$ $[]$ 
+ []
+
+[111 <./figs/sec_evtSlc/zVtx_MC_data.pdf, page is rotated 90 degrees>]
+Overfull \vbox (61.40977pt too high) has occurred while \output is active []
+
+
+[112 <./figs/sec_evtSlc/trkEff_pp13_mon_dis_pT.pdf, page is rotated 90 degrees>
+ <./figs/sec_evtSlc/trkEff_pp13_mon_crr_pT.pdf, page is rotated 90 degrees> <./
+figs/sec_evtSlc/trkEff_pp13_mon_dis_eta.pdf, page is rotated 90 degrees> <./fig
+s/sec_evtSlc/trkEff_pp13_mon_crr_eta.pdf, page is rotated 90 degrees> <./figs/s
+ec_evtSlc/trkEff_pp13_mon_dis_phi.pdf, page is rotated 90 degrees> <./figs/sec_
+evtSlc/trkEff_pp13_mon_crr_phi.pdf, page is rotated 90 degrees>]
+<figs/sec_evtSlc/mon_pythia_truth_trkDis.pdf, id=11411, 569.12625pt x 265.99374
+pt>
+File: figs/sec_evtSlc/mon_pythia_truth_trkDis.pdf Graphic file (type pdf)
+ <use figs/sec_evtSlc/mon_pythia_truth_trkDis.pdf>
+Package pdftex.def Info: figs/sec_evtSlc/mon_pythia_truth_trkDis.pdf used on in
+put line 152.
+(pdftex.def)             Requested size: 409.71689pt x 191.4991pt.
+ [113 <./figs/sec_evtSlc/mon_pythia_truth_trkDis.pdf, page is rotated 90 degree
+s>] [114] [115]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 285.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 285.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 329.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 329.
+
+[116]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 358.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 358.
+
+[117]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 388.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 388.
+
+) [118] (./SubCumu_v0.bbl [119
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+ [120] [121]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+ (./SubCumu_v0.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
+Package rerunfilecheck Info: File `SubCumu_v0.out' has not changed.
+(rerunfilecheck)             Checksum: D9FADC724F26C83C6BEECB6B649FF05E;5973.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
+ ) 
+Here is how much of TeX's memory you used:
+ 13017 strings out of 493089
+ 223627 string characters out of 6134842
+ 281574 words of memory out of 5000000
+ 15618 multiletter control sequences out of 15000+600000
+ 69833 words of font info for 167 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,18n,38p,1838b,559s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/
+usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/
+local/texlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/loca
+l/texlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}{/usr/local/te
+xlive/2015/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/local/texliv
+e/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/mnsymbol/MnSymbol10.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/mnsymbol/MnSymbol6.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/mnsymbol/MnSymbol8.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
+public/txfonts/rtxmi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/txfonts/rtxr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfont
+s/txtt.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/urw/times/utmri8a.pfb>
+Output written on SubCumu_v0.pdf (122 pages, 10637853 bytes).
+PDF statistics:
+ 11680 PDF objects out of 12825 (max. 8388607)
+ 5485 compressed objects within 55 object streams
+ 414 named destinations out of 1000 (max. 500000)
+ 1860 words of extra memory for PDF output out of 10000 (max. 10000000)
+

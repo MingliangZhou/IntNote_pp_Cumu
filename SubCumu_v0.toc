@@ -1,0 +1,79 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {section}{\numberline {2}Sub-event multi-particle cumulants}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Basic idea of subevent cumulant}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Traditional cumulant}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}2 sub-event method}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}3 sub-event method}{6}{subsection.2.4}
+\contentsline {section}{\numberline {3}Data samples, event and tracking selections}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}$pp$ 13 TeV}{8}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Run period 1}{8}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Run period 2}{11}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Run period 3}{13}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.4}Run period 4}{15}{subsubsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.5}PYTHIA for $pp$ 13 TeV data}{17}{subsubsection.3.1.5}
+\contentsline {subsubsection}{\numberline {3.1.6}Tracking validation for run 305359, 309314 and 309346}{22}{subsubsection.3.1.6}
+\contentsline {subsection}{\numberline {3.2}$pp$ 5.02 TeV}{27}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}PYTHIA for $pp$ 5.02 TeV data}{29}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Impact of ID misalignment}{29}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}$p$+Pb 5.02 TeV}{30}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}2013 $p$+Pb}{30}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}HIJING for 2013 $p$+Pb data}{35}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}2016 $p$+Pb}{35}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}HIJING for 2016 $p$+Pb data}{38}{subsubsection.3.3.4}
+\contentsline {section}{\numberline {4}Data analysis}{41}{section.4}
+\contentsline {subsection}{\numberline {4.1}Outline}{41}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}$p_{T}$ range of the reference particles $N_{ch}^{ref}$}{41}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Calculation of $Q$-vector}{41}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Flattening procedure}{43}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}2- and 4-particle correlations with direct cumulant method}{47}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Definition of event classes}{47}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}X-axis of cumulant results}{50}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Event weighting}{52}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}2- and 4-particle cumulant}{53}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.10}Validation of the subevent method using PYTHIA truth particles}{53}{subsection.4.10}
+\contentsline {section}{\numberline {5}Systematic uncertainties and cross-checks}{55}{section.5}
+\contentsline {subsection}{\numberline {5.1}$pp$ 13 TeV}{55}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Trigger efficiency}{55}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Tracking efficiency}{57}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Track selection}{59}{subsubsection.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.4}Pile-up condition}{60}{subsubsection.5.1.4}
+\contentsline {subsubsection}{\numberline {5.1.5}Residual detector effects}{61}{subsubsection.5.1.5}
+\contentsline {subsubsection}{\numberline {5.1.6}Event class bin width}{63}{subsubsection.5.1.6}
+\contentsline {subsubsection}{\numberline {5.1.7}$\ensuremath {\etaa }$ gap for sub-event}{65}{subsubsection.5.1.7}
+\contentsline {subsubsection}{\numberline {5.1.8}Charge dependence}{66}{subsubsection.5.1.8}
+\contentsline {subsubsection}{\numberline {5.1.9}Deviations from the truth in the reconstruction of Monte Carlo data}{67}{subsubsection.5.1.9}
+\contentsline {subsubsection}{\numberline {5.1.10}Summary of systematics}{69}{subsubsection.5.1.10}
+\contentsline {subsection}{\numberline {5.2}$pp$ 5.02 TeV}{71}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Summary of systematics}{71}{subsubsection.5.2.1}
+\contentsline {subsection}{\numberline {5.3}$p$+Pb 5.02 TeV}{72}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Pileup rejection in run 1}{72}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Summary of systematics}{73}{subsubsection.5.3.2}
+\contentsline {subsection}{\numberline {5.4}Summary of systematic table}{74}{subsection.5.4}
+\contentsline {section}{\numberline {6}Results}{76}{section.6}
+\contentsline {subsection}{\numberline {6.1}13 TeV $pp$ $C_{2}\{2\}$}{76}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}13 TeV $pp$ $C_{3}\{2\}$}{78}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}13 TeV $pp$ $C_{2}\{4\}$}{80}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}13 TeV $pp$ $C_{3}\{4\}$}{82}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}5.02 TeV $pp$ $C_{2}\{2\}$}{84}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}5.02 TeV $pp$ $C_{3}\{2\}$}{86}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}5.02 TeV $pp$ $C_{2}\{4\}$}{88}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}5.02 TeV $pp$ $C_{3}\{4\}$}{90}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.9}5.02 TeV $p$+Pb $C_{2}\{2\}$}{92}{subsection.6.9}
+\contentsline {subsection}{\numberline {6.10}5.02 TeV $p$+Pb $C_{3}\{2\}$}{94}{subsection.6.10}
+\contentsline {subsection}{\numberline {6.11}5.02 TeV $p$+Pb $C_{2}\{4\}$}{96}{subsection.6.11}
+\contentsline {subsection}{\numberline {6.12}5.02 TeV $p$+Pb $C_{3}\{4\}$}{98}{subsection.6.12}
+\contentsline {subsection}{\numberline {6.13}Comparison among three collision systems}{100}{subsection.6.13}
+\contentsline {subsection}{\numberline {6.14}Comparison with 2PC results}{101}{subsection.6.14}
+\contentsline {subsection}{\numberline {6.15}Number of sources $N_{s}$ in the initial state geometry}{102}{subsection.6.15}
+\contentsline {section}{\numberline {7}Summary}{104}{section.7}
+\contentsline {section}{\numberline {8}Appendix}{105}{section.8}
+\contentsline {subsection}{\numberline {8.1}Statistics of all triggers in $pp$ 13 TeV}{105}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Statistics of all triggers in $pp$ 5.02 TeV}{109}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Auxiliary plots 13 TeV PYTHIA}{109}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Formulas for direct cumulant with particle weight}{113}{subsection.8.4}
+\contentsline {subsubsection}{\numberline {8.4.1}Traditional method}{113}{subsubsection.8.4.1}
+\contentsline {subsubsection}{\numberline {8.4.2}2 sub-event method: $1st$ kind}{116}{subsubsection.8.4.2}
+\contentsline {subsubsection}{\numberline {8.4.3}2 sub-event method: $2nd$ kind}{117}{subsubsection.8.4.3}
+\contentsline {subsubsection}{\numberline {8.4.4}3 sub-event method: $1st$ kind}{117}{subsubsection.8.4.4}
+\contentsline {subsubsection}{\numberline {8.4.5}3 sub-event method: $2nd$ kind}{118}{subsubsection.8.4.5}

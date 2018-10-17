@@ -1,0 +1,386 @@
+\subsection{PYTHIA 13 TeV A2 tune}
+We tested the sub-event cumulant method on PYTHIA A2 tune sample with 200 million events and compared the results with traditional cumulant. To enhance the statistics for high-multiplicity events, 3 high-multiplicity PYTHIA samples are also added, each with 1 million events. All the truth particles are used and there is no additional requirements.
+
+In this section we will first discuss the 2-particle cumulant results, showing that the 2 sub-event 2-particle cumulant can indeed further suppress the non-flow. Then 4-particle cumulant results are compared among three methods, where the 3 sub-event method gives the closest to 0 result. In the end we will discuss the influence of the event class binning, and show that the 3 sub-event method is the optimal among all three method. In this paper we will only focus on the second harmonics $v_{2}\{2\}$ and $v_{2}\{4\}$, since in $pp$ data the signals of higher order harmonics are much smaller and not practical to measure with cumulant method.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1.0\columnwidth]{figs/sec_result/pythia13/phy_pythia13_2PC.pdf}
+\caption{$C_{2}\{2\}$ calculated from traditional method and 2 sub-event method. Left plot shows the particles with lower $p_{T}$ range: $0.3<p_{T}<3.0$ GeV, and right plot with higher $p_{T}$ range: $0.5<p_{T}<5.0$ GeV. The black dash line is at 0. The blue and red dash lines indicate 4$\%$ and 6$\%$ flow, respectively. $C_{2}\{2\}$ calculated from 2 sub-event method is significantly lower than the traditional method, in both $p_{T}$ ranges.}
+\label{fig:phy_pythia13_2PC}
+\end{figure}
+
+In the traditional cumulant method, 2-particle cumulant doesn't suppress any non-flow contribution. While in the 2 sub-event method, most of short-range correlation already been suppressed, so in principle $C_{2}\{2\}$ calculated from traditional method should be much higher than the 2 sub-event method. Fig.~\ref{fig:phy_pythia13_2PC} compares the $C_{2}\{2\}$ from two methods. In low $p_{T}$ range, $C_{2}\{2\}$ decreases as number of tracks increase. In high $p_{T}$ range, $C_{2}\{2\}$ even begins to increase above 100 tracks, which might be due to that in high-multiplicity range, result is biased because of the high-multiplicity track triggers, which needs to be validated. $C_{2}\{2\}$ calculated from 2 sub-event method is significantly lower than the traditional method, in both $p_{T}$ ranges. However, even with 2 sub-event method, the measured $C_{2}\{2\}$ is higher than $6\%$ flow. Since PYTHIA doesn't simulate flow, it means that the remaining large non-flow fluctuation will produce very large fake $C_{2}\{2\}$. For this reason, we will move to the 4 particle correlation, where the non-flow is further suppressed.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1.0\columnwidth]{figs/sec_result/pythia13/phy_pythia13_4PC.pdf}
+\caption{$C_{2}\{4\}$ calculated from traditional method, 2 sub-event method and 3 sub-event method. Left plot shows the particles with lower $p_{T}$ range: $0.3<p_{T}<3.0$ GeV, and right plot with higher $p_{T}$ range: $0.5<p_{T}<5.0$ GeV. The black dash line is at 0. The blue and red dash lines indicate 4$\%$ and 6$\%$ flow, respectively. $C_{2}\{2\}$ calculated from sub-event methods are significantly lower than the traditional method, in both $p_{T}$ ranges. 3 sub-event method is closet to 0 down to 40 tracks.}
+\label{fig:phy_pythia13_4PC}
+\end{figure}
+
+Fig.~\ref{fig:phy_pythia13_4PC} shows the results for 4-particle cumulants, calculated from 3 different methods, for two $p_{T}$ ranges. $C_{2}\{4\}$ from traditional method gives very large positive value, even in the high-multiplicity region. In high-$p_{T}$range, the $C_{2}\{4\}$ is even larger, indicating significant remaining non-flow in the 4 particle correlation. In 2 sub-event cumulant method, the non-flow sources from short-range correlation and partially of di-jet correlation are removed, resulting in smaller $C_{2}\{4\}$ values. It still increases from $0.3<p_{T}<3.0$ GeV to $0.5<p_{T}<5.0$ GeV, because particles from non-flow are preferable to have larger $p_{T}$. This indicates even with 2 sub-event method, there still remains non-flow. The optimal method is 3 sub-event method. As discussed above, this method can almost reject all the ji-jet contribution, leaving minimum non-flow. This explains why the $C_{2}\{4\}$ calculated from 3 sub-event is almost fluctuating around 0, and there is no significant increase when moving from $0.3<p_{T}<3.0$ GeV to $0.5<p_{T}<5.0$ GeV. In later section, by studying the non-flow fluctuation, we will show additional evidence to support that with 3 sub-event method, the non-flow are suppressed to the minimum.
+
+In order to show that the 3 sub-event method does not always give 0 value results, we tested all the method with PYTHIA flow afterburner sample. Afterburner can be done by changing the azimuthal angle of each particle (and consequently changing the density in the azimuthal angle space)
+\begin{equation}
+\phi\to\phi^{'}=\phi+\Delta\phi
+\end{equation}
+where
+\begin{equation}
+\Delta\phi=\sum_{n}\frac{-2}{n}\tilde{v}_{n}\text{sin}[n(\phi-\psi_{0})]
+\end{equation}
+$\tilde{v}_{n}$ are the $n$ parameters of the transformation, and $\psi_{0}$ is the direction of the added flow. The $\tilde{v}_{n}$ can be functions  of rapidity and transverse momentum. For simplicity, in this study we choose $\tilde{v}_{2}=0.04$, independent of rapidity and $p_{T}$.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1.0\columnwidth]{figs/sec_result/pythia13/phy_pythia13_4PC_afterBurner.pdf}
+\caption{$C_{2}\{4\}$ calculated from traditional method, 2 sub-event method and 3 sub-event method, for PYTHIA with afterburner and the input is $4\%$ $v_{2}$ signal. Left plot shows the particles with lower $p_{T}$ range: $0.3<p_{T}<3.0$ GeV, and right plot with higher $p_{T}$ range: $0.5<p_{T}<5.0$ GeV. The black dash line is at 0. The blue and red dash lines indicate $4\%$ and $6\%$ flow, respectively. $C_{2}\{2\}$ calculated from sub-event methods are significantly lower than the traditional method, in both $p_{T}$ ranges. 3 sub-event method is closet to -0.0016 down to 40 tracks.}
+\label{fig:phy_pythia13_4PC_afterBurner}
+\end{figure}
+
+Fig.\ref{fig:phy_pythia13_4PC_afterBurner} shows the results for 4-particle cumulants, calculated from 3 different methods, for two $p_{T}$ ranges. Since the input of flow $v_{2}$ signal is 4$\%$, we should expect a negative $C_{2}\{4\}$. However, since the remaining non-flow contribution is still very large, the traditional cumulant is alway positive in low-$p_{T}$ range and is even larger in high$-p_{T}$ range. This means that even though there is an artificial $4\%$ flow signal, the traditional method could not measure it. Using the new sub-event method, especially the 3 sub-event method, the $C_{2}\{4\}$ is clearly negative and fluctuating around -0.0016 down to 40 tracks. For number of tracks larger than 100, both sub-event methods begin to merge. The non-uniformness in the 3 sub-event method is also observed in the PYTHIA without afterburner and is caused by the smaller number of pairs. However, as have already been seen in previous results, even though sub-event methods give larger statistical errors, the advantages are far beyond the drawbacks: non-flow signal is suppressed and can easily measure down to $4\%$ signal. Furthermore, since we know that the overall contribution of non-flow is larger in PYTHIA than data, we believe that the new sub-event methods should have even better performance in the data analysis.
+
+As have been discussed in previous papers, cumulant measurement is sensitive to the flow fluctuation. In a similar way, the $C_{2}\{\}$ should also be sensitive to the non-flow fluctuation, since from above PYTHIA results the non-flow can give large positive $C_{2}\{4\}$ values. In this section we will try to evaluate the non-flow fluctuation using PYTHIA without afterburner. Since 3 sub-event method gives better performance than 2 sub-event mehtod, in this section we will only compare the traditional cumulant method with 3 sub-event method.
+
+When calculating the cumulant, the events are binned into event classes. To reduce the additional multiplicity fluctuation, the optimal binning criteria is based on the particles that have been used to calculate the cumulant, which is $0.3<p_{T}<3.0$ GeV and $0.5<p_{T}<5.0$ GeV in this paper. However, in recent CMS results, because of the high-multiplicity track triggers during the data taking, they used $p_{T}>0.4$ GeV as the binning instead. To see how large the multiplicity fluctuation could affect the results, we tested four different binning criteria: one is our default $0.3<p_{T}<3.0$ GeV, and the other three are different $p_{T}$ ranges: $p_{T}>0.2$, $p_{T}>0.4$ and $p_{T}>0.5$ GeV. To compensate the shift of mean number of tracks due to different $p_{T}$ thresholds, we plot all the results as a function of mean $N_{ch}$ with $p_{T}>0.4$ GeV, which is consistent with above plots. The results are summarized in Fig.~\ref{fig:evtCls_comp}. The left plot shows the $C_{2}\{4\}$ calculated using traditional cumulant method. In order to make a proper comparison, for differernt binning with different $p_{T}$ ranges, the X-axis is shifted to mean number of tracks with $p_{T}>0.4$ GeV. We observed that for different binning, the results are very different, even for $N_{ch}>100$. In recent CMS paper, they claimed that they observed a negative $C_{2}\{4\}$ down to 60 tracks. However, since they were using tracks with $p_{T}>0.4$ GeV as the event class binning criteria, which is different from the particles that have been used to calculate the cumulant, it is not clear whether such observation could indicate collectivity. From PYTHIA study, we clear see $p_{T}>0.4$ GeV binning will give significantly lower $C_{2}\{4\}$ than the default method, which could explain the negative $C_{2}\{4\}$ that CMS has measured.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1.0\columnwidth]{figs/sec_result/pythia13/phy_pythia13_4PC_evtCls.pdf}
+\caption{$C_{2}\{4\}$ calculated based on different event class binning: $0.3<p_{T}<3.0$ GeV, $p_{T}>0.2$ GeV, $p_{T}>0.4$ GeV and $p_{T}>0.5$. The particles used to calculate cumulant have $0.3<p_{T}<3.0$ GeV. The left plot shows the results from traditional cumulant, where $C_{2}\{4\}$ is very sensitive to the event class binning. The right plot is from 3 sub-event method, and different event class binning gives consistent results down to 40 tracks.}
+\label{fig:phy_pythia13_4PC_evtCls}
+\end{figure}
+
+On the other hand, the right plot of Fig.\ref{fig:phy_pythia13_4PC_evtCls} shows the results calculated from 4 sub-event method. Unlike traditional method, the different event class binning give quite consistent results down to 40 tracks. Without digging into the origin of how the multiplicity fluctuation can affect the cumulant results, we can already conclude that the new method is less sensitive to such additional fluctuation, which means it is a more reliable method. In the following slides, we will try to give some qualitatively explanations of why the event class binning can greatly change the cumulant results in small system.
+
+
+
+\subsection{2015 13 TeV $pp$}
+In this section we will present all the cumulant $C_{2}\{4\}$ results calculated in the 2015 13 TeV $pp$ data. First we will compare the traditional cumulant with 2 and 3 sub-event cumulant, for both $p_{T}$ ranges, in the default event class binning. Then we will show how the three methods respond differently to the multiplicity fluctuation. In the end 2015 $pp$ data will be merged with 2016 $pp$ data to increase statistics.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/Mtd_EvtCls0_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/Mtd_EvtCls0_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ calculated from 5 different methods, using 2015 13 TeV $pp$ data. Events are binning according to the particles used for cumulant calculation. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2015_Mtd_EvtCls0}
+\end{figure}
+
+Fig.~\ref{fig:result_pp13_2015_Mtd_EvtCls0} summarized a direct comparison between all five methods, in both $p_{T}$ ranges, with default event-class binning (denoted as "same", meaning using same particles for binning as cumulant calculation). The right panel zooms in the $N_{ch}$ region that we are more interested in. In the low-$p_{T}$ region, traditional cumulant has very large positive $C_{2}\{4\}$, except in the high-multiplicity range $100<N_{ch}<130$. So the traditional method is not able to indicate collectivity in 13 TeV $pp$ collision. As to the 2 sub-event $1st$ kind, it gives significantly lower $C_{2}\{4\}$ than traditional cumulant, for $N_{ch}<100$. When $N_{ch}$ grows large enough, both methods are consistent, meaning that the non-flow contribution is smaller. Meanwhile, for the 2 sub-event $2nd$ kind, in low-multiplicity, it gives smaller value than traditional cumulant, however, when moving into high-multiplicity, both methods give consistent results. This means that the $2SE$ 1st kind can only partially suppress non-flow, as discussed in the methodology section. $C_{2}\{4\}$ calculated from both 3 sub-event methods are negative, however, the 3 sub-event $2nd$ kind is lower than the $1st$ kind. Due to the reasons explained above, $3SE$ $1st$ will be the default 3 sub-event method. In the higher-$p_{T}$ region, the separation among all the methods are larger, since the fraction of non-flow contribution will be significantly larger when moving towards high-$p_{T}$. Even under this circumstance, the 3 sub-event can still give negative $C_{2}\{4\}$, even though the traditional method gives even more positive $C_{2}\{4\}$. It is also noticed that the $C_{2}\{4\}$ from $3SE$ $1st$ is slightly lower in $0.5<p_{T}<5.0$ GeV than $0.3<p_{T}<3.0$ GeV, resulting in a larger $v_{2}$. This observation is consistent with existing flow measurements from peripheral subtraction method.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_NNNN_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_NNNN_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 13 TeV $pp$ data. Traditional cumulant method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2015_EvtCls_NNNN}
+\end{figure}
+
+To order to show how the multiplicity fluctuation can affect the results, we calculated the cumulant within different event-classes. The event class binning criteria is described in details in data analysis section. Fig.~\ref{fig:result_pp13_2015_EvtCls_NNNN} shows the $C_{2}\{4\}$ calculated by traditional cumulant, for both $p_{T}$ ranges. For $0.3<p_{T}<3.0$ GeV, it is interesting that by changing the event-class binning, $C_{2}\{4\}$ values changes a lot. In low-multiplicity, the trend of $C_{2}\{4\}$ are totally different for different binning, and in high-multiplicity, even the sign of $C_{2}\{4\}$ changed. In CMS results, they defined the event class based on particles with $p_{T}>0.4$ GeV, but based on current results, the negative $C_{2}\{4\}$ they observed is possibly purely caused by multiplicity fluctuation, since the default binning always gives positive $C_{2}\{4\}$. As discussed before, different event-class binning can easily alter the non-flow fluctuation, which results in different cumulant results. However, if the fraction of non-flow is already suppressed, how it fluctuates no longer matters. In other words, by changing the event-class definition, we could get an idea of the magnitude of remaining non-flow. Thus an observation of "negative" $C_{2}\{4\}$ does not mean the collectivity since the negative value might be caused by non-flow fluctuation. A more robust check will be by changing the event-class definition and see whether the negative $C_{2}\{4\}$ is independent of different event-class binning. Based on what we showed here the traditional cumulant method does not pass the check and is not a reliable method in $pp$ collision. Bottom plots shows the high-$p_{T}$ results and the conclusion is the same.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_ABAB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_ABAB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 13 TeV $pp$ data. 2 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2015_EvtCls_ABAB}
+\end{figure}
+
+Fig.~\ref{fig:result_pp13_2015_EvtCls_ABAB} shows the comparison of $C_{2}\{4\}$ with different event class binning, using 2 sub-event $1st$ kind method. Unlike the traditional cumulant, this sub-event method gives more consistent results for different event-class binning, though the $C_{2}\{4\}$ varies from $0\%$ to $4\%$ flow. This mean there is still remaining non-flow with this method, which is only smaller than the traditional method. For the higher-$p_{T}$ range, no matter what event-class definition is choosen, $C_{2}\{4\}$ is always positive for $N_{ch}<90$. Based on this result we conclude that the 2 sub-event $1st$ kind method could effectively suppress non-flow, but not-enough to measure the $v_{2}$ signal in $pp$ collision.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_AABB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_AABB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 13 TeV $pp$ data. 2 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2015_EvtCls_AABB}
+\end{figure}
+
+Fig.~\ref{fig:result_pp13_2015_EvtCls_AABB} shows the comparison of $C_{2}\{4\}$ with different event class binning, using 2 sub-event $2nd$ kind method. In this method, the major difference from $1st$ kind is that there is $\phi_{A_{1}}-\phi_{A_{1}}$ term in the 4-particle correlation, in which case the non-flow can not be effectively suppressed as the $1st$ kind method. This can be clearly reflected when changing the event class criteria: the differences are as large as the traditional method, which means there is still large remaining non-flow. In the higher-$p_{T}$ range, the conclusion is the same. Due to this reason, we will not include $2SE$ $2nd$ kind method as the default method and it will be excluded from the final results.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_ABAC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_ABAC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 13 TeV $pp$ data. 3 sub-event $1st$ kind cumulant method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2015_EvtCls_ABAC}
+\end{figure}
+
+Fig.~\ref{fig:result_pp13_2015_EvtCls_ABAC} shows the comparison of $C_{2}\{4\}$ with different event class binning, using 3 sub-event $1st$ kind method. This method will be the optimal method in this analysis. In the lower-$p_{T}$ range, different event-class binning have much closer $C_{2}{4}$ than traditional method and they are all negative. As the $p_{T}$ of event-class binning increase from 0.2 GeV to 0.6 GeV, the $C_{2}{4}$ decrease slightly. This could be due to two reason: either there is still little remaining non-flow, which is influenced by the multiplicity fluctuation, or the flow fluctuation needs to be considered. From the PYTHIA study, it is more likely that the first reason is true, since there is no flow signal in PYTHIA. As discussed in the methodology section, if the correlated non-flow lies across the two boundaries of three sub-events, even $3SE$ method can not suppress the such non-flow. However, in any case, the non-flow is much more suppressed that traditional or $2SE$ cumulant method.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_AABC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2015/EvtCls_AABC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 13 TeV $pp$ data. 3 sub-event $2nd$ kind cumulant method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2015_EvtCls_AABC}
+\end{figure}
+
+Fig.~\ref{fig:result_pp13_2015_EvtCls_AABC} shows the comparison of $C_{2}\{4\}$ with different event class binning, using 3 sub-event $2nd$ kind method. Like the $2SE$ $1st$ kind method, because of the appearance of $\phi_{A_{1}-\phi_{A_{2}}}$ term in the 4-particle correlation, which makes some specific non-flow sources non-vanishing after event averaging, the $3SE$ $2nd$ kind is still dependent of multiplicity fluctuation. Even though all the event-class definitions give negative $C_{2}\{4\}$ values and the default binning gives consistent result as the $1st$ kind, we will not include this method in the final results.
+
+
+\subsection{2016 13 TeV $pp$}
+In this section we will quickly go over all the cumulant $C_{2}\{4\}$ results calculated in the 2016 13 TeV $pp$ data. The layout of this section is identical to previous section and the main purpose to check whether the new data collected in 2016 provide similar results as 2015. If so, the new data will be merged with 2015 data to increase statistics.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/Mtd_EvtCls0_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/Mtd_EvtCls0_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ calculated from 5 different methods, using 2016 13 TeV $pp$ data. Events are binning according to the particles used for cumulant calculation. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_Mtd_EvtCls0}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_NNNN_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_NNNN_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2016 13 TeV $pp$ data. Traditional cumulant method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_EvtCls_NNNN}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_ABAB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_ABAB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2016 13 TeV $pp$ data. 2 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_EvtCls_ABAB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_AABB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_AABB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2016 13 TeV $pp$ data. 2 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_EvtCls_AABB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_ABAC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_ABAC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2016 13 TeV $pp$ data. 3 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_EvtCls_ABAC}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_AABC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016/EvtCls_AABC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2016 13 TeV $pp$ data. 3 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_EvtCls_AABC}
+\end{figure}
+
+
+
+\subsection{NEW 2016 13 TeV $pp$}
+In this section we will present all the cumulant $C_{2}\{4\}$ results calculated in the new 2016 13 TeV $pp$ data collected in September.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/Mtd_EvtCls0_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/Mtd_EvtCls0_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ calculated from 5 different methods, using 2015+2016 13 TeV $pp$ data. Events are binning according to the particles used for cumulant calculation. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_new_Mtd_EvtCls0}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_NNNN_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_NNNN_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. Traditional cumulant method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_new_EvtCls_NNNN}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_ABAB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_ABAB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. 2 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_new_EvtCls_ABAB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_AABB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_AABB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. 2 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_new_EvtCls_AABB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_ABAC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_ABAC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. 3 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_new_EvtCls_ABAC}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_AABC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_2016_new/EvtCls_AABC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. 3 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_2016_new_EvtCls_AABC}
+\end{figure}
+
+
+
+\subsection{2015+2016 13 TeV $pp$}
+In this section we will present all the cumulant $C_{2}\{4\}$ results calculated in the 2015 and 2016 13 TeV $pp$ data combined. 
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/Mtd_EvtCls0_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/Mtd_EvtCls0_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ calculated from 5 different methods, using 2015+2016 13 TeV $pp$ data. Events are binning according to the particles used for cumulant calculation. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_all_Mtd_EvtCls0}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_NNNN_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_NNNN_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. Traditional cumulant method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_all_EvtCls_NNNN}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_ABAB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_ABAB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. 2 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_all_EvtCls_ABAB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_AABB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_AABB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. 2 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_all_EvtCls_AABB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_ABAC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_ABAC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. 3 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_all_EvtCls_ABAC}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_AABC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp13_all/EvtCls_AABC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015+2016 13 TeV $pp$ data. 3 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp13_all_EvtCls_AABC}
+\end{figure}
+
+
+
+
+\subsection{2015 5 TeV $pp$}
+In this section we will present all the cumulant $C_{2}\{4\}$ results calculated in the 2015 5 TeV $pp$ data.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/Mtd_EvtCls0_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/Mtd_EvtCls0_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ calculated from 5 different methods, using 2015 5 TeV $pp$ data. Events are binning according to the particles used for cumulant calculation. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp5_2015_Mtd_EvtCls0}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_NNNN_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_NNNN_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. Traditional cumulant method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp5_2015_EvtCls_NNNN}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_ABAB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_ABAB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. 2 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp5_2015_EvtCls_ABAB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_AABB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_AABB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. 2 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp5_2015_EvtCls_AABB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_ABAC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_ABAC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. 3 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp5_2015_EvtCls_ABAC}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_AABC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pp5_2015/EvtCls_AABC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. 3 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pp5_2015_EvtCls_AABC}
+\end{figure}
+
+
+
+\subsection{2013 5 TeV $p+$Pb}
+In this section we will present all the cumulant $C_{2}\{4\}$ results calculated in the 2013 5 TeV $p+$Pb data.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/Mtd_EvtCls0_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/Mtd_EvtCls0_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ calculated from 5 different methods, using 2015 5 TeV $pp$ data. Events are binning according to the particles used for cumulant calculation. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pPb5_2013_Mtd_EvtCls0}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_NNNN_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_NNNN_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. Traditional cumulant method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pPb5_2013_EvtCls_NNNN}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_ABAB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_ABAB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. 2 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pPb5_2013_EvtCls_ABAB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_AABB_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_AABB_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. 2 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pPb5_2013_EvtCls_AABB}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_ABAC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_ABAC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. 3 sub-event $1st$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pPb5_2013_EvtCls_ABAC}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_AABC_Pt0.pdf}
+\includegraphics[width=0.8\columnwidth]{figs/sec_result/pPb5_2013/EvtCls_AABC_Pt1.pdf}
+\caption{Comparison of $C_{2}\{4\}$ with different event class binning, using 2015 5 TeV $pp$ data. 3 sub-event $2nd$ kind method is applied to determine the $C_{2}\{4\}$. Top panels are for $0.3<p_{T}<3.0$ GeV and bottom panels are for $0.5<p_{T}<5.0$ GeV. The right panels are the zoomed-in versions of the left panels.}
+\label{fig:result_pPb5_2013_EvtCls_AABC}
+\end{figure}
+
+

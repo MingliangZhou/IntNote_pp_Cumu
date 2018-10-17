@@ -1,0 +1,123 @@
+\documentclass[english]{atlasnote}
+\usepackage{atlasphysics} % Contains useful shortcuts. Uncomment to use
+\RequirePackage{lineno} \setlength{\linenumbersep}{4pt}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage{cancel}
+\usepackage{morefloats}
+\usepackage{harpoon}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{MnSymbol}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage[colorlinks,breaklinks]{hyperref}
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=blue}
+\usepackage{babel}
+\skipbeforetitle{50pt}
+\newcommand{\dd}[2]{\frac{\partial{#1}}{\partial{#2}}}
+
+\title{ Measurement of multi-particle azimuthal correlation in proton-lead and proton-proton collisions with the ATLAS detector }
+
+\usepackage{authblk}\renewcommand{\Authands}{, } % avoid ``. and'' for last author
+\renewcommand{\Affilfont}{\itshape\small} % affiliation formatting
+\author[a]{Mingliang Zhou}
+\author[a,b]{Jiangyong Jia}
+\author[c]{Adam Trzupek}
+\author[a]{Peng Huo}
+\affil[a]{Department of Chemistry,Stony Brook University, Stony Brook, NY 11794, USA}
+\affil[b]{Brookhaven National Laboratory, Physics Department, Bldg. 510A, Upton, NY 11973, United States of America}
+\affil[c]{Institute of Nuclear Physics Polish Academy of Sciences, Krakow}
+
+\newcommand{\lr}[1]{\left\langle #1\right\rangle}
+
+\draftversion{2}
+
+\abstracttext{This note presents details of the analysis of the multi-particle azimuthal anisotropy of charged particles produced in $pp$ and $p$+Pb collisions with the new sub-event multi-particle cumulant method. Cumulant has previously been measured in $p$+Pb and Pb+Pb collision systems, and recently was first measured in $pp$ collision by CMS collaboration. In this note we will show that the traditional cumulant measurement is very sensitive to the multiplicity fluctuation, and existed results might not indicate collectivity even with presence of negative $C_{2}\{4\}$. For this reason, we proposed a new sub-event method within the cumulant framework to further suppress the non-flow in small systems. This new method has been validated in PYTHIA sample, where $C_{2}\{4\}$ calculated from the new method is much closer to 0 than the traditional method. The 4-particle cumulant are calculated for high multiplicity $pp$ data at $\sqrt{s}=13$ TeV as well as 5.02 TeV. Results from the new method give negative $C_{2}\{4\}$ down to 40 tracks, and the values of $C_{2}\{4\}$ are independent of multiplicity fluctuation. The new results indicate potential collective behavior in small collision system.}
+
+
+
+
+\begin{document}
+\tableofcontents
+\clearpage
+
+List of contributions
+\begin{itemize}
+\item \verb|Mingliang Zhou|
+\begin{itemize}
+\item Submit production jobs for 13 TeV $pp$, 5.02 TeV $pp$ and 5.02 TeV $p$+Pb;
+\item Development and optimization of the method for sub-event cumulant method;
+\item Evaluation of the systematic uncertainties in all systems;
+\item Writing the internal note;
+\end{itemize}
+\item \verb|Jiangyong Jia|
+\begin{itemize}
+\item Development and optimization of the method for sub-event cumulant method;
+\item Evaluation of the systematic uncertainties in all systems;
+\item Producing the final physics plots;
+\item Writing the paper draft;
+\end{itemize}
+\item \verb|Adam Trzupek|
+\begin{itemize}
+\item Analyzer for the results and systematics from traditional cumulant method;
+\end{itemize}
+\item \verb|Peng Huo|
+\begin{itemize}
+\item Submit production jobs for 13 TeV $pp$, 5.02 TeV $pp$ and 5.02 TeV $p$+Pb;
+\item Cross-check of the subevent analysis code;
+\end{itemize}
+\end{itemize}
+\clearpage
+
+\section{Introduction}
+\label{sec:intro}
+\input{sec_intro}
+\clearpage
+
+\section{Sub-event multi-particle cumulants}
+\label{sec:mtd}
+\input{sec_mtd}
+\clearpage
+
+\section{Data samples, event and tracking selections}
+\label{sec:evtSlc}
+\input{sec_evtSlc}
+\clearpage
+
+\section{Data analysis}
+\label{sec:ana}
+\input{sec_ana}
+\clearpage
+
+\section{Systematic uncertainties and cross-checks}
+\label{sec:sys}
+\input{sec_sys}
+\clearpage
+
+\section{Results}
+\label{sec:result}
+\input{sec_result}
+\clearpage
+
+\section{Summary}
+\label{sec:summary}
+\input{sec_summary}
+\clearpage
+
+
+\section{Appendix}
+\label{sec:appdx}
+\input{sec_appdx}
+\clearpage
+
+\bibliography{SubCumu_v0}
+\bibliographystyle{ieeetr}
+
+\end{document}
+
+
+
